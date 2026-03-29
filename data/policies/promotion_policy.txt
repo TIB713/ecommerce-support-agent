@@ -1,0 +1,29 @@
+SECTION 1: Overview
+
+Promotional offers—including percentage-off coupons, cart-level discounts, free gifts with purchase (GWP), and stackable loyalty multipliers—are governed by this policy and by the legal terms embedded in each offer's fine print. Meridian Market may expire, modify, or cap promotions without retroactive application except where required by law. Promotion value is never paid out in cash unless a specific state escheatment process applies to uncredited small balances.
+
+The policy addresses eligibility windows, stacking rules, partial refunds when promotions are "broken" by returns, price protection boundaries, and conflict resolution when multiple incentives apply.
+
+SECTION 2: Eligibility Rules
+
+One sitewide promo code may be applied per order unless the code family is marked "stackable" in Promo Engine. Loyalty member base points always accrue on post-discount subtotal unless jurisdictional rules require pre-discount for loyalty credit calculation on regulated categories.
+
+GWPs require cart to meet threshold after other percentage discounts but before tax; if the GWP goes out of stock after order placement, the customer may accept substitute of equal or higher value, future promotional credit $10, or cancel the order pre-ship without penalty. If post-ship, customer keeps any shipped qualifying items; GWP removal triggers a clawback line on return only if the GWP shipped—otherwise adjust refund of returned paid items using prorated threshold logic.
+
+Employee and affiliate codes are subject to identity verification; misuse routes to HR and Fraud.
+
+SECTION 3: Exceptions
+
+Price adjustment: if an item's price drops within seven (7) calendar days of order ship date, a one-time courtesy refund of the difference is granted on request for non-clearance SKUs, provided the customer has not used a limited-time coupon that already yielded a lower net price. Clearance and Lightning Deal SKUs are excluded. Conflicting rule: Black Friday week orders are not eligible for price adjustments on overlapping SKUs advertised as "event pricing."
+
+Coupon retroactivity: codes entered after checkout placement are not applied; the customer may reorder if stock permits—agents do not cancel-and-rebook solely to add a code unless the original order has not entered allocation.
+
+Tax-exempt entities: discounts apply to eligible goods; tax exemption certificates do not entitle double benefit with illegal tax-on-top-of-discount schemes—tax engine governs final amounts.
+
+SECTION 4: Processing / Resolution Rules
+
+When a return breaks a bundle discount, recalculate using the Bundle Break allocator in OMS; if the system flags negative net, cap refund at zero additional charge to customer except for restocking fees per Return Exceptions.
+
+Partial order refund example: Buy two shirts get 20% off both—return one shirt, remove discount from retained shirt only if retained no longer meets mechanic—reprice retained at undiscounted MSRP or current sell price whichever is lower per promo terms snapshot stored on order.
+
+Document promo ID on every adjustment. Goodwill coupon reissue for service recovery max $25 without supervisor; above requires manager on duty. Expired coupons are not reactivated unless widespread technical failure prevented redemption, verified by Incident ID.

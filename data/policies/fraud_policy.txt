@@ -1,0 +1,33 @@
+SECTION 1: Overview
+
+Meridian Market protects customers, partners, and the enterprise from payment fraud, identity theft, promotion abuse, reseller arbitrage schemes, and organized returns fraud. This policy describes investigative tools, customer-facing limitations, account actions, and privacy boundaries. Agents balance loss prevention with lawful, non-discriminatory treatment; all holds reference objective risk signals and documented procedures subject to audit.
+
+Fraud operations does not publicly disclose scoring methodology in detail; agents communicate outcomes in neutral terms.
+
+SECTION 2: Eligibility Rules
+
+Orders may be delayed, canceled, or subjected to step-up verification (SMS OTP, billing address proof, card selfie request via approved vendor) when composite risk exceeds thresholds: velocity of orders to varying addresses, BIN mismatch with shipping region, VPN/datacenter IP alignment with high-risk geos, mismatch of phone carrier country and ship country, or device fingerprint linked to prior chargeback.
+
+Promotional abuse: multiple accounts same device graph, referral farming, or coupon code brute force triggers credit removal and order cancellation prior to ship when detected pre-manifest.
+
+Returns fraud indicators: serial number swaps, empty-box returns weight-ticket mismatch, repeated high-value electronics returns beyond category norms—cases routed to specialist investigators.
+
+SECTION 3: Exceptions
+
+Legitimate customers caught in false positives may appeal with government-issued ID and proof of address via secure upload; resolution target four (4) business days from complete documentation. Military deployments and gift-to-third-party scenarios may explain address variance—human review required before permanent ban.
+
+Regulatory prohibitions: we do not use biometrics for fraud without consent where jurisdiction forbids. Chargeback "friendly fraud" after delivery—merchant may contest with carrier POD; customer service may not offer duplicate refund while dispute open.
+
+Conflicting empathy mandate: agents should remain courteous while refusing impermissible refunds; do not imply accusation—use "verification required" language.
+
+SECTION 4: Processing / Resolution Rules
+
+Account restrictions: levels—from soft review flag, checkout limit $200, to hard suspension and device cookie blocklist. Reinstatement only through Fraud queue with audit log.
+
+Law enforcement requests require Legal subpoena compliance workflow; agents forward to legal@ without commenting on existence of data.
+
+Data retention: fraud signals retained per Records policy; customer may receive summary of adverse action where required by FCRA analogs for certain financing products only.
+
+Cooperation with banks: supply transaction hash, shipping proofs, and IP timelines through chargeback portal within SLA. Never promise chargeback outcome to customer.
+
+Escalate media-viral cases to Communications early; do not offer remedy that admits liability for model error without Risk sign-off.

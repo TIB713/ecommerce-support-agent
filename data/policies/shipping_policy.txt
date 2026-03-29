@@ -1,0 +1,25 @@
+SECTION 1: Overview
+
+Meridian Market ships from owned DCs and approved 3PLs in North America, plus limited UK/EU lanes. This policy covers service-level expectations, liability cutoffs, address corrections, and how fees interact with promos and tax. Estimates are goals, not guarantees, unless Guaranteed Express was paid for and offered for that SKU and destination on the order date. Default carrier is lowest cost that meets the window; upgrades at checkout. Hazmat, lithium, oversized, and cold-chain SKUs use restricted lanes only.
+
+SECTION 2: Eligibility Rules
+
+Free economy shipping applies to domestic orders with cart subtotal at or above $49 after discounts and before tax, excluding marketplace seller items unless the seller opts in. Orders below the threshold incur a flat $6.95 economy rate or quoted carrier rate for oversized items. Express two-day and overnight options display dynamic pricing based on origin node, dimensional weight, and surge multipliers during peak season (mid-November through December 24).
+
+We ship only to verified street addresses, P.O. boxes where the carrier permits (USPS-only SKUs), and select pickup points for partners that support integration. Military APO/FPO uses space-available timing; standard SLA disclaimers apply. Rural extended-area surcharges billed by the carrier are passed through when the API returns a surcharge code at label purchase.
+
+Split inventory may ship in partials with separate tracking. "Ship complete" holds until all lines allocate and may delay capture on pre-auth cards.
+
+SECTION 3: Exceptions
+
+Weather emergencies, customs holds, incorrect recipient phone numbers for courier contact-required deliveries, and force majeure events void SLA remedies under the Late Delivery policy but do not automatically waive return rights—refer to Return Exceptions for time extensions. If the customer refuses delivery without initiating a return, outbound and return shipping may be deducted from any eventual refund per Refund policy.
+
+Address changes after label generation: if the package is not yet tendered to the carrier, Operations may re-label for a $15 intercept fee borne by the customer unless the error originated from our entry of their submitted address. Marketplace seller shipments follow the seller's stated handling time; our global shipping fee promotions may not apply.
+
+Conflicting promotion: "Free shipping" coupons stack with subtotal free shipping only when the coupon terms explicitly allow; otherwise the single best benefit applies. Gift orders billed to purchaser but shipped to recipient use purchaser's region for tax and fraud checks.
+
+SECTION 4: Processing / Resolution Rules
+
+Agents verify tracking status in the OMS before offering reship or fee waiver. If tracking shows delivered but the customer disputes receipt, open a carrier trace; do not reship until trace tier-one completes or forty-eight (48) hours pass, whichever is shorter for low-value orders under $75.
+
+Wrong SKU from our DC: prepaid return plus expedited replacement when stock and Fraud allow—document node code. Customs rejection: International Shipping policy sets redelivery costs.

@@ -1,54 +1,33 @@
-NORTHLAKE COMMERCE — INTERNATIONAL SHIPPING, DUTIES, AND IMPORT COMPLIANCE
-Effective: 2026-01-01.
+SECTION 1: Overview
 
-SECTION 1 — AVAILABILITY
-1.1 Not all items ship to all countries due to vendor restrictions, export controls, or carrier limitations.
+International shipping extends Meridian Market's catalog to select countries via export-compliant lanes. Duties, taxes, and brokerage fees may be collected at checkout (Delivered Duty Paid, DDP) or assessed upon import (DDU) depending on lane configuration displayed at purchase. Customers are responsible for accurate customs declarations assistance—false commodity descriptions requested by customers are refused.
 
-1.2 Some electronics require export licenses; we block checkout if restricted.
+Transit times exclude customs processing, which can add unpredictable delays. Product compliance varies by destination: voltage, labeling language, certification marks, and restricted ingredients may disqualify SKUs from certain countries at checkout.
 
-SECTION 2 — DUTIES AND TAXES
-2.1 Delivered Duty Paid (DDP): Estimated duties and taxes collected at checkout for supported lanes.
+SECTION 2: Eligibility Rules
 
-2.2 Delivered Duty Unpaid (DDU): You pay duties upon import; delays may occur at customs.
+Eligible destinations appear in the Dynamic Geo matrix updated weekly. PO boxes prohibited except where local post handles last-mile and carrier integration supports. Minimum order value $75 USD equivalent for EU DDP lane to offset brokerage flat fees—shown as soft block if below.
 
-SECTION 3 — PROHIBITED ITEMS
-3.1 Lithium battery restrictions vary by mode and country; some SKUs cannot ship air internationally.
+Restricted categories: apparel with regional fur bans, certain batteries, cryptography hardware, and laser pointers above Class limits—hard stop at cart validation. Gift orders must list honest contents for customs; value declaration equals transaction subtotal unless legal ceiling lower—no undervaluing.
 
-3.2 Certain agricultural and food items are prohibited.
+Returns from international customers: RMA must use approved commercial invoice template stating "return of goods exported from US" with HS codes matching outbound shipment; customer bears return shipping and any re-import fees to US unless defect confirmed pre-return.
 
-SECTION 4 — RETURNS FROM ABROAD
-4.1 International returns may require customs declarations; mislabeling may forfeit refunds.
+SECTION 3: Exceptions
 
-4.2 Return shipping costs may be customer responsibility unless the error was ours.
+Undeliverable returns to sender due to unpaid duties when lane was DDU: original payment refunded minus outbound international shipping and restock fee 20% if packaging compromised, per checkout acknowledgement checkbox.
 
-SECTION 5 — ADDRESS FORMATS
-5.1 Provide Roman characters where possible; failed transliteration may delay delivery.
+Brexit and NI protocols: UK mainland follows UK DDP table; Northern Ireland may route through dual customs—delivery estimates widen by up to four (4) business days mid-quarter.
 
-SECTION 6 — TIMELINES
-6.1 International transit may take two (2) to four (4) weeks depending on lane and customs.
+Conflicting refund request: customer refuses to pay assessed VAT at door on DDU lane—parcel abandoned; refund of merchandise only after carrier confirms destruction or return-to-origin scan, minus abandonment fees up to 25% not to exceed item subtotal.
 
-SECTION 7 — DOCUMENTATION
-7.1 Invoices are provided electronically; commercial invoices accompany the package for customs.
+Force majeure: port strikes, war risk areas—shipments suspended; pending orders held up to thirty (30) days then cancelled with full refund if no alternate route.
 
-SECTION 8 — EDGE CASES
-E1: Customer refuses to pay duties on DDU: package may return; refund minus shipping.
+SECTION 4: Processing / Resolution Rules
 
-E2: Customs destroys prohibited item: no refund if customer ordered prohibited SKU against warnings.
+Agents quote only published lane timelines; attach Help Center deep link to customs broker FAQ. Lost international packages: forty-five (45) calendar day search before refund or replace; Russia/Belarus lanes deprecated—historical claims handled case-by-case.
 
-E3: Brexit/region changes: VAT rules may shift; checkout displays current rule.
+Currency: charge in USD on US site; customer's bank sets conversion. Provide PayPal cross-border receipt on request—do not email full PAN.
 
-E4: Remote islands: surcharges apply.
+Escalate repeated customs seizures of same SKU to Compliance for HS review. Partner carriers' fuel surcharges mid-transit are absorbed by enterprise contract—do not pass through on settled orders.
 
-E5: Military diplomatic pouches: special rules; contact support.
-
-E6: Temporary import for trade shows: not supported for consumer checkout.
-
-E7: Split customs valuation disputes: escalate to trade compliance.
-
-E8: Currency refunds in international orders return in original currency where possible.
-
-E9: Lost inbound return international: carrier claim timelines vary.
-
-E10: Sanctions: if country becomes sanctioned mid-order, we cancel unshipped.
-
-Escalate export control questions to Compliance.
+VAT invoices for B2B EU: collect valid VAT ID pre-tax-exempt authorization; invalid ID triggers tax recharge on next invoice—not handled in consumer queue.

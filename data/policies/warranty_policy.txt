@@ -1,0 +1,31 @@
+SECTION 1: Overview
+
+Manufacturer warranties cover defects in materials and workmanship under terms supplied with the product and summarized on the product detail page (PDP). Meridian Market honors first-year facilitation for SKUs we sell directly: we coordinate RMA, provide prepaid labels when the OEM authorizes, and communicate timelines. Extended protection plans sold as add-ons are administered by NorthGuard Warranty Services under separate contract; this section addresses base manufacturer coverage unless flagged "Marketplace—seller warranty only."
+
+Warranties do not cover accidental damage, abuse, unauthorized modification, consumables (batteries past normal wear), software corruption, or damage from incompatible accessories unless an accidental damage rider was purchased.
+
+SECTION 2: Eligibility Rules
+
+Proof of purchase from Meridian Market (order ID or serial-registered account) is required. Registration within ninety (90) days of delivery extends courtesy expedited shipping on first claim for participating brands—list maintained in Brand Registry.
+
+Defect must manifest during stated coverage period; intermittent issues require reproducible steps or manufacturer-approved diagnostic. For large appliances, first contact must be within warranty and service scheduled within dealer network—we do not reimburse third-party technician bills without pre-authorization.
+
+Replacement units may be refurb equivalent for SKUs past ninety (90) days from original delivery when OEM policy permits; customer may refuse refurb for new-unit discount buyout per OEM matrix.
+
+SECTION 3: Exceptions
+
+Commercial use on consumer-graded SKUs may void residential warranties—Commercial Sales attaches different SKUs with appropriate warranties. International voltage misuse voids electronics coverage.
+
+Cosmetic wear, battery capacity below 80% after eighteen (18) months on mobile devices unless Premium Battery add-on active—not a defect per OEM guidelines.
+
+Conflicting return window: a customer past thirty (30) days for change-of-mind may still have warranty service—do not conflate return policy with warranty policy. Final-sale electronics retain warranty for hidden defects; cosmetic final-sale may still limit remedies to repair not refund per OEM.
+
+Gray-market or unauthorized reseller inventory identified by serial check is excluded—customer directed to place of purchase.
+
+SECTION 4: Processing / Resolution Rules
+
+Open warranty ticket with serial, firmware version, symptom taxonomy, and upload logs if applicable. SLA: first response forty-eight (48) business hours; OEM turnaround varies—do not promise OEM internal dates.
+
+If OEM approves advance replacement, place hold on card; release upon return scan of faulty unit within fourteen (14) days. Lost return: charge per advance replacement agreement.
+
+If no repair economically viable, OEM may authorize refund prorated by months used for some categories—Finance executes. Document authorization code. Escalate repeated failure "lemon" patterns to Vendor Quality at three (3) service events in twelve (12) months for select categories.

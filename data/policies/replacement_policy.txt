@@ -1,0 +1,33 @@
+SECTION 1: Overview
+
+A replacement sends a duplicate or like item to satisfy a valid claim—wrong item shipped, lost package confirmed by carrier, irreparable defect under warranty triage, or stock-preservation strategy when refund would strand seasonal inventory. Replacements are not offered as a courtesy for buyer's remorse on final-sale goods unless Executive approval documents a brand-risk exception.
+
+This policy defines when replacement supersedes refund, expedite tiers, inventory substitution rules, and handling when the original item must be returned versus kept.
+
+SECTION 2: Eligibility Rules
+
+Wrong SKU in box: replacement ships same day or next business day when inventory available; customer returns mis-shipped item using prepaid label within fourteen (14) days. If return not received within twenty-one (21) days, charge placeholder MSRP per terms accepted at replacement request.
+
+Carrier-lost, inventory confirmed shipped and not trackable delivered after trace: replacement or refund at customer choice for in-stock SKUs under $750; above $750 requires Fraud review before replacement. Customer must complete affidavit once per household per rolling twelve (12) months for lost claims exceeding $200 aggregate.
+
+Defective within thirty (30) days of delivery with no repair path in five (5) business days: replacement authorized; after thirty (30) days, Warranty policy governs repair vs replace.
+
+If cosmetic downgrade replacement is offered (open-box), disclose condition grade; customer may insist on new-in-box if stock exists and price differential under 10%.
+
+SECTION 3: Exceptions
+
+Limited editions: if sold out, offer waitlist conversion to refund plus $25 credit or substitute model with price adjustment—customer chooses.
+
+Subscription shipments: replacement dose replaces only the affected cycle; do not double next cycle without Pharmacy or Regulatory sign-off where applicable.
+
+Conflicting inventory: if warehouse shows phantom stock, cancel replacement order proactively, notify customer, pivot to refund with expedited shipping fee refund if they originally paid express. Partial shipment replacement: replace only missing lines; do not upsell bundles.
+
+Marketplace: replacements initiated by seller; our platform may mask seller address—use RMA bridge workflow.
+
+SECTION 4: Processing / Resolution Rules
+
+Create child order linked to parent with zero-dollar offset authorization; shipping method matches original paid tier or better if error was ours. Log reason code WRONG-SKU, LOST, DEFECT-ADV, etc.
+
+Return-first vs ship-first matrix: high fraud score requires return scan before ship except urgent medical device SKUs on physician attestation list.
+
+Partial refund plus replacement prohibited except Finance-approved split resolutions for tax nuance. Document supervisor ID for any override.

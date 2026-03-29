@@ -1,0 +1,33 @@
+SECTION 1: Overview
+
+Return Exceptions document categories, timing extensions, documentation requirements, and remedies that deviate from the base returns catalog. It resolves tensions such as final-sale versus mis-shipped goods, hygiene products with broken seals, partial bundles, and regulatory right of withdrawal. Use this file when a standard return workflow rejects in the portal but mitigating facts exist.
+
+Meridian Market's baseline is thirty (30) days from delivery for most categories in new, unworn condition with tags; this document modifies that baseline without replacing Refund policy math or Promotion clawback rules.
+
+SECTION 2: Eligibility Rules
+
+Extended return window: severe illness or hospitalization documented within original window extends start of return clock by the number of inpatient days, capped at extra thirty (30) days, with supervisor approval and medical redaction of sensitive fields. Weather/state-of-emergency ZIPs published on Help Center add fourteen (14) days automatically during declared periods—applies to outbound delivery date in affected area.
+
+Opened consumables: skincare and cosmetics may return once if documented allergic reaction with photo and—when requested—provider note within fourteen (14) days; store credit only at non-prescription tiers, full refund if batch recall exists.
+
+High-value jewelry ($2,500+): requires in-person inspection at brand boutique partner or mail-in with appraised-value insurance elected by customer; no waiver of appraisal shipping cost unless defect.
+
+SECTION 3: Exceptions
+
+Final-sale override: unauthorized override prohibited except misdescription (>10% dimensional variance), counterfeit suspicion confirmed by QA, or shipment of hazardous substitute. Chargeback threat does not excuse policy—escalate to Legal.
+
+Personalized engraving, monogram, and custom sizing: non-returnable once production starts; twenty-four (24) hour grace from order for cancellations if production queue not locked.
+
+Bundles with digital activation: if digital component activated, physical component return allowed only if digital can be revoked—if revocation impossible, deduct digital list price from refund.
+
+Conflicting loyalty benefit: Elite free returns label not applicable to oversized white-glove furniture—customer pays return haul or accepts in-home pickup fee quote.
+
+SECTION 4: Processing / Resolution Rules
+
+Agents attach exception code EX-ILLNESS, EX-REACTION, EX-EMERGENCY, etc., visible in CRM timeline. Refund path follows Refund policy; partial scenarios recalc via Promotion engine flag EXCEPTION_REPRICE=true.
+
+If customer ships without RMA, intake warehouse holds fourteen (14) days for association—customer may be charged $15 processing if unlabeled inventory cannot be matched—waive if first offense under $150 order.
+
+Dispute between customer "unused" and QC "wear marks": offer 50% split credit compromise once per account rolling year without supervisor if item value under $100—document photo evidence.
+
+International returns: refer to International Shipping for customs on inbound returns; never refund duties paid to foreign governments—customer applies to customs for duty drawback where available.

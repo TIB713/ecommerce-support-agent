@@ -1,0 +1,33 @@
+SECTION 1: Overview
+
+Late delivery remedies apply when a shipment misses the delivery commitment associated with the paid service level or the maximum of the published estimate window for free shipping, excluding dates impacted by carrier service alerts in the customer's ZIP code. Meridian Market compensates within the frameworks below to maintain trust while aligning with carrier contractual limitations—we do not guarantee delivery dates for economy service but we do track bracket performance and offer goodwill when we materially exceed the upper bound shown at checkout for that lane on order date.
+
+This policy interacts with Shipping policy (lanes), Refund policy (money movement), and International Shipping (customs delays).
+
+SECTION 2: Eligibility Rules
+
+Guaranteed Express (brand name per checkout): if delivery occurs after the committed calendar date, customer may request a refund of shipping fees paid only; item price is not discounted unless the item is perishable and unsalvageable—a separate Quality claim then applies.
+
+Free economy: if the carrier's first-delivery attempt or mailbox delivery occurs more than five (5) business days after the upper date of the estimate range shown at checkout, customer may receive a $10 promotional credit or waived return shipping on a future order (choose one per claim), not both, max one claim per order. If the delay exceeds twelve (12) business days, agent may upgrade to a 15% item subtotal credit capped at $40 for orders under $300 after supervisor approval.
+
+Preorder-specific lanes use ship-by date plus standard transit SLA; lateness measured from ship date, not purchase date.
+
+SECTION 3: Exceptions
+
+Carrier disclaimers: weather, natural disasters, civil unrest, customs inspections, incorrect/incomplete address, recipient unavailability without reschedule, and security holds void service guarantees. Weekend-committed deliveries in markets where Sunday is not a service day roll to Monday without compensation.
+
+Address re-route requested mid-transit resets commitment. If the customer selected signature required and missed three attempts, delay is not compensable.
+
+Conflicting rules: if the customer simultaneously opens a chargeback for non-receipt while tracking shows in-transit delay, pause goodwill credits until dispute desk reconciles—never double-pay.
+
+Peak season appendices published November 1 each year may widen non-guaranteed windows; when the customer consented to peak disclosures at checkout, standard economy remedy thresholds shift +3 business days.
+
+SECTION 4: Processing / Resolution Rules
+
+Verify POD timestamps and carrier exception codes in Track API before applying credit. Log the promised window snapshot from order metadata—if missing, use category default table v3.2.
+
+Credits apply to logged-in account within twenty-four (24) hours; non-members receive emailed promo code single-use, thirty (30) day expiry. Do not stack with other service recovery credits on the same order line.
+
+If customer requests order cancellation due solely to delay but package is already out for delivery, deny cancellation; offer credit path after delivery if still within bracket. Refund of item requires return unopened per Return Exceptions if they change mind post-delivery.
+
+Escalation: PR-sensitive influencers and B2B contracts with SLA exhibits—route to Partner Support.

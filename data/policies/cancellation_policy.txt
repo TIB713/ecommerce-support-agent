@@ -1,0 +1,29 @@
+SECTION 1: Overview
+
+A cancellation removes an order or line from fulfillment prior to an irreversible fulfillment milestone. Meridian Market distinguishes between customer-initiated cancellations, system holds for payment or fraud, and operational cancels for oversell or regulatory block. Once a shipment is manifested to the carrier, cancellation is no longer possible; the customer must refuse delivery or pursue a return under the returns framework. This policy sets cutoffs, refund timing for cancelled amounts, and handling for split-state orders.
+
+Digital entitlements and SaaS trial conversions follow Subscriptions & Digital Goods addendum; this document covers physical goods and bundled hardware where relevant.
+
+SECTION 2: Eligibility Rules
+
+Customers may cancel an entire order at no fee provided no line item has reached "Picking" status in the WMS. Between "Picking" and "Packed," cancellation may still be attempted; success depends on floor team catch rate and is not guaranteed. After "Packed" or label print, cancellation is denied and the customer receives tracking as normal.
+
+Partial line cancellation is supported only before allocation locks; if one line is on backorder, the customer may cancel the backordered lines and keep in-stock lines, with payment capture adjusted to the revised subtotal. If payment was fully captured, partial cancellation triggers a partial refund to original tender within three (3) business days of confirmation.
+
+Pre-orders may be cancelled without penalty until the SKU enters the "Allocation freeze" date published on the product page (typically seventy-two (72) hours before warehouse inbound). After freeze, cancellation is treated as a withdrawal subject to a 15% fee to cover committed allocation unless local law forbids such fees.
+
+SECTION 3: Exceptions
+
+Promotional orders tied to minimum spend lose the promotion if cancellation drops subtotal below threshold; the system recomputes retained items at non-promotional pricing before refund math. "Doorbuster" colliding with one-per-customer limits: cancelling may not restore purchase eligibility for that SKU in the same event window.
+
+Subscriptions with physical refill kits on auto-ship: skip-a-month is preferred over cancellation mid-cycle; if the customer insists on full plan cancel after the renewal charge but before ship, refund the kit charge only if the label has not been created. Conflicting rules: Elite loyalty early-access orders flagged non-cancellable are enforceable when explicitly disclosed at checkout checkbox; otherwise escalate to Legal templates.
+
+Fraud-high orders may be cancelled internally without customer request; the customer is notified with neutral language and any authorized holds released.
+
+SECTION 4: Processing / Resolution Rules
+
+Agents must check milestone timestamps in OMS before promising cancellation. If cancellation succeeds, send confirmation email and verify refund or authorization release in the payment rail dashboard. If cancellation fails, provide tracking and RMA path.
+
+For BOPIS (buy online pickup in store): cancellation allowed until the store receives the pick list; after pick completion, treat as standard store return policy. For mixed ship-to-home and BOPIS, cancel each fulfillment leg independently.
+
+SLA: acknowledge cancellation request within the same business day in chat; automated acknowledgment for self-service portal is immediate. Document customer reason code for analytics even if optional.

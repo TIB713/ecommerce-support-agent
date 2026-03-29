@@ -1,0 +1,31 @@
+SECTION 1: Overview
+
+This policy governs tender acceptance, authorization and capture timing, failed payment recovery, gift card and split-tender sequencing, currency presentation, and chargeback coordination. Meridian Market processes payments through PCI-DSS compliant gateways; we do not store full PAN on merchant servers. Displayed prices default to USD for meridianmarket.com US storefront; international shoppers may see localized currency estimates but settlement occurs in USD unless the regional site is the native multi-currency instance.
+
+Security objectives: reduce fraudulent authorizations, comply with PSD2 SCA where applicable, and minimize customer friction for low-risk baskets.
+
+SECTION 2: Eligibility Rules
+
+Acceptable methods: major credit and debit brands, PayPal, Apple Pay, Google Pay, Shop Pay, branded stored-value gift cards, and approved enterprise procurement cards for B2B accounts. We do not accept personal checks, wire for consumer carts under $2,000, or cryptocurrency on the standard storefront.
+
+Authorization: card authorizations hold funds at order submit for seven (7) days on standard SKUs; custom build holds may extend to fourteen (14) days with notification. Capture occurs at ship or digital fulfillment for most goods; digital instant delivery may capture at order commit. Partial capture matches partial ship in split shipments.
+
+Split tender applies gift cards first, then promotional credits, then external payment for remainder. Refunds reverse in proportional tiers unless a line maps entirely to one instrument.
+
+SECTION 3: Exceptions
+
+Insufficient funds or issuer decline: one automated retry after twenty-four (24) hours for subscription continuity orders; others require customer to update payment. AVS/CVV mismatch on high-AOV orders may cancel automatically—customer may reorder after bank confirms billing address.
+
+Chargebacks: upon receipt of dispute, Finance freezes related refunds and may offset future credits. Customers claiming "product not received" while tracking shows delivery require Fraud review before merchant acceptance of liability.
+
+Currency rounding: two-decimal presentation; FX fees from issuing bank are between customer and issuer. Conflicting promo: "pay with Brand X card get 5% off" cannot combine with another card-specific issuer promo—lowest net for customer wins after system validation.
+
+Regulated installments (BNPL): governed by partner Lender of Record; merchant handles only order fulfillment and return triggers to BNPL ledger.
+
+SECTION 4: Processing / Resolution Rules
+
+Agents never request full card numbers or CVV; use secure pay-by-link for manual recharges. For duplicate charge visible on statement, verify double order IDs; if single order double-captured, apply expedited refund with Finance ticket within one (1) business day.
+
+B2B NET30 accounts: past-due suspension at thirty (30) days; reactivation requires treasury clearance—not handled in consumer payment queues.
+
+Payment anomaly logging: suspected BIN farming or velocity attacks—block session, preserve headers for Fraud. Partial refund on financed order must route through BNPL adjustment API to avoid customer still owing full plan.

@@ -1,0 +1,29 @@
+SECTION 1: Overview
+
+This policy covers merchandise that arrives flawed, broken, contaminated, or materially different from the listing due to manufacturing defect, inadequate packaging, or carrier mishandling in the final delivery segment. Meridian Market separates "carrier damage" from "concealed damage" and from "customer-induced damage" because resolution paths and cost recovery differ. The goal is to restore the customer to whole—replacement, repair, or refund—without forcing customers to absorb losses from problems outside their control, while protecting against systematic abuse.
+
+Reporting channels include in-app claim flow, email with photo attachments, and agent-assisted tickets. High-value or regulated categories may require return of the damaged unit for supplier chargeback.
+
+SECTION 2: Eligibility Rules
+
+Visible damage at delivery must be reported within seventy-two (72) hours of carrier delivery timestamp, with at least three photographs: packaging exterior, inner packing, and damaged product plus a brief written description. Concealed damage discovered after unboxing must be reported within seven (7) calendar days of delivery; beyond that window, only warranty or manufacturer RMA routes apply unless Fraud/Quality flags a batch defect.
+
+Eligible remedies, agent-selectable within guardrails: (1) full replacement shipped expedited at no charge when inventory exists; (2) full refund including outbound shipping if customer refuses replacement or stock is zero; (3) partial refund if the item remains usable with disclosed cosmetic flaw—typically 15–30% of item price by defect matrix; (4) repair parts shipment for categories where DIY repair is standard (e.g., furniture hardware kits).
+
+If only one unit in a multi-pack is damaged, replace the pack when the product is not sold as singles; otherwise partial refund per unit MSRP proration.
+
+SECTION 3: Exceptions
+
+"Damage" does not include color variance within published tolerance for handcrafted goods when disclosed on PDP. Odor from packaging materials that dissipates within forty-eight (48) hours of airing is not compensable beyond a $5 courtesy credit if customer insists.
+
+If the customer admits to dropping the product after delivery, coverage is excluded; refer to Warranty for defects unrelated to transit. Marketplace seller items: damaged-in-box claims route to seller within seller's SLA; our platform may offer advance replacement when seller fails to respond in forty-eight (48) business hours and reserve chargeback to seller account.
+
+Conflicting final-sale flag: final-sale applies to change-of-mind, not to goods not as warranted or received damaged; merchant is obligated to remedy nonconforming shipments even for final-sale SKUs unless customer caused damage after delivery.
+
+SECTION 4: Processing / Resolution Rules
+
+Agents set claim status to Awaiting Evidence until photos meet minimums; auto-approve under $35 pre-negotiated threshold when carrier scans show damage exception codes. For carrier damage with carrier-paid claim pending, we may still front remedy to customer and subrogate internally—do not tell customer to wait for carrier adjudication for first-party remedy under $500.
+
+Disposition: destroyed-in-field authorization for bulky items only when photos prove total loss and Logistics approves; customer must certify disposal. Refunds after replacement shipped in error (duplicate ship) follow double-shipment procedures in OMS.
+
+Document lot code if visible for Quality trending. Escalate to Legal if injury or ingestion is alleged.
