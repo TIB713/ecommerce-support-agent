@@ -1,0 +1,63 @@
+NORTHLAKE COMMERCE — ORDER CANCELLATIONS POLICY
+Effective: 2026-01-01.
+
+SECTION 1 — WHEN YOU MAY CANCEL
+1.1 Before shipment: Most orders can be canceled in Order History if status is “Processing” and no shipment label has been created. Cancellation is not guaranteed if fulfillment is automated and extremely fast.
+
+1.2 After label creation: Cancellation may be blocked. You may refuse delivery or use the Returns Policy after delivery.
+
+1.3 Backorders: You may cancel a backordered line item until it ships unless the product page states the deposit is non-refundable for special manufacturing runs.
+
+SECTION 2 — PAYMENT CAPTURE TIMING
+2.1 Authorizations may appear at order time; capture may occur at shipment. If you cancel before capture, the authorization typically falls off per bank timelines.
+
+2.2 If capture already occurred, refunds follow Refund Policy timelines after cancellation confirmation.
+
+SECTION 3 — BUNDLED PROMOTIONS
+3.1 Canceling one item in a bundle may void bundle pricing. The remaining items may be repriced to standalone prices before refund calculation.
+
+3.2 Buy-one-get-one promotions may require returning all promotional units to cancel the deal fairly.
+
+SECTION 4 — SUBSCRIPTIONS AND ADD-ONS
+4.1 Subscription first-box promotions may require completing a minimum term if disclosed at signup. Early cancellation may incur a fee equal to the discount received.
+
+4.2 Installation services scheduled with third parties may require twenty-four (24) hours notice to cancel without fee; same-day cancellation may be charged per partner terms shown at booking.
+
+SECTION 5 — CUSTOM AND MADE-TO-ORDER
+5.1 Custom items cannot be canceled after production starts. Production start is defined as when materials are allocated and work orders are issued, which may be within hours.
+
+5.2 If we fail to ship within the promised build window without notice, you may cancel for a full refund unless you accept a revised date in writing.
+
+SECTION 6 — PREORDERS
+6.1 Preorders can be canceled until the charge date if no non-refundable deposit applies.
+
+6.2 If a deposit is non-refundable, cancellation forfeits the deposit as disclosed.
+
+SECTION 7 — SELLER-FULFILLED ORDERS
+7.1 Marketplace sellers may have different cancellation windows. Our platform will show seller-specific rules.
+
+SECTION 8 — FRAUD AND ABUSE
+8.1 Rapid cancel/repurchase patterns to exploit promotions may lead to order holds and account review.
+
+SECTION 9 — EDGE CASES
+E1: Customer cancels while package is mid-flight; interception is not always possible; refund may process after return.
+
+E2: Partial shipments: canceling unshipped portion is allowed; shipped portion follows returns.
+
+E3: Gift orders: purchaser can cancel before shipment; recipient cannot cancel purchaser’s payment method orders without authorization.
+
+E4: Corporate purchase orders: cancellation may require written approval from the buyer’s AP department.
+
+E5: If cancellation fails due to system error but customer was charged, we escalate and refund with priority.
+
+E6: Weather holds: if carrier suspends service, cancellation may reopen briefly; communicated via email.
+
+E7: If item becomes illegal to ship to your region, we cancel and refund without penalty.
+
+E8: Waitlist conversions: canceling a waitlist conversion may remove your priority status for future drops.
+
+E9: Mixed cart with digital items: digital delivery may block full-order cancellation; partial cancellation rules apply.
+
+E10: If a duplicate order is detected, we may cancel duplicates automatically and notify you.
+
+Contact Customer Care for edge cases not covered here.

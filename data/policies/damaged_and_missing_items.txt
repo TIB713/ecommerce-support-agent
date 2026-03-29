@@ -1,0 +1,67 @@
+NORTHLAKE COMMERCE — DAMAGED, DEFECTIVE, AND MISSING ITEMS POLICY
+Effective: 2026-01-01.
+
+SECTION 1 — REPORTING WINDOW
+1.1 Report shipping damage within forty-eight (48) hours of delivery for priority handling. Reports after seven (7) days may require additional evidence.
+
+1.2 Missing items must be reported within seventy-two (72) hours of delivery scan for high-value orders; standard orders within seven (7) days.
+
+SECTION 2 — EVIDENCE REQUIREMENTS
+2.1 Provide photos of the outer shipping box, inner packaging, damage to the product, and the shipping label.
+
+2.2 For missing accessories, photos of everything received and the sealed areas of packaging if applicable.
+
+2.3 Serial number photos for electronics when serial tracking is used.
+
+SECTION 3 — RESOLUTION OPTIONS
+3.1 Minor cosmetic box damage with intact product may receive a small courtesy credit instead of replacement if you accept.
+
+3.2 Functional defects within the return window may be replaced, repaired under warranty, or refunded per your preference and inventory.
+
+3.3 Missing items may be reshipped or refunded if investigation confirms short shipment.
+
+SECTION 4 — CARRIER INVESTIGATIONS
+4.1 If tracking shows delivered but you claim non-receipt, we open a carrier case. Outcomes may take up to ten (10) business days.
+
+4.2 If signature proof exists at your address, denial of receipt may require a police report for replacement above a threshold (e.g., one thousand dollars).
+
+SECTION 3A — THIRD-PARTY MARKETPLACE
+3A.1 Seller-fulfilled damage claims route to the seller first. If the seller is unresponsive within forty-eight (48) hours, our marketplace team may intervene.
+
+SECTION 4 — FOOD AND PERISHABLES
+4.1 Spoilage claims require photos and may require return of remaining product where safe.
+
+SECTION 5 — LARGE APPLIANCES
+5.1 Delivery damage must be noted on the delivery receipt at time of delivery when possible. If not noted, claims are harder but not impossible with strong evidence.
+
+SECTION 6 — PARTIAL SHIPMENT ERRORS
+6.1 If you ordered quantity three and received two, we verify warehouse scan data and CCTV sampling when disputes persist.
+
+SECTION 7 — FRAUD SIGNALS
+7.1 Repeated missing-item claims across accounts may trigger identity verification and temporary order holds.
+
+SECTION 8 — WARRANTY OVERLAP
+8.1 Manufacturing defects after the return window follow the Warranty Policy; shipping damage follows this policy within reporting windows.
+
+SECTION 9 — EDGE CASES
+E1: Concealed damage discovered after unboxing later than forty-eight hours: may still qualify with strong causal evidence linking to transit.
+
+E2: Customer discards packaging then claims damage: harder to approve; may require inspection at service center.
+
+E3: Accessory allegedly never included: we verify BOM lists; if SKU is supposed to include accessory, we ship accessory.
+
+E4: Wrong item in sealed box: treated as fulfillment error; full replacement expedited.
+
+E5: Item damaged by customer assembly error: not covered as shipping damage.
+
+E6: Theft after delivery to a communal lobby: may be denied unless premium signature service was purchased.
+
+E7: Carrier says delivered to back door without photo: investigation escalated.
+
+E8: International damage claims require customs forms photos if box opened by customs.
+
+E9: Battery swelling: safety protocol triggers replacement and return label for affected device.
+
+E10: Multi-box shipment with one box missing: partial reship after carrier trace.
+
+Escalate to Risk if patterns suggest abuse.

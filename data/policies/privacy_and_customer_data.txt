@@ -1,0 +1,50 @@
+NORTHLAKE COMMERCE — PRIVACY, DATA USE, AND COMMUNICATIONS PREFERENCES
+Effective: 2026-01-01.
+
+SECTION 1 — DATA COLLECTION
+1.1 We collect order data, device data, and support interactions to fulfill orders and improve services.
+
+1.2 Payment details are processed by PCI-compliant processors; we do not store full card numbers.
+
+SECTION 2 — USE CASES
+2.1 Fraud prevention, delivery coordination, warranty support, and legal compliance.
+
+SECTION 3 — SHARING
+3.1 We share data with carriers, payment processors, and service providers under contracts.
+
+3.2 We may share with law enforcement when legally required.
+
+SECTION 4 — RIGHTS
+4.1 Depending on region, you may access, correct, delete, or port data subject to exceptions.
+
+SECTION 5 — MARKETING
+5.1 Opt out of marketing emails via unsubscribe links; transactional emails may continue.
+
+SECTION 6 — RETENTION
+6.1 Order records retained for seven (7) years for tax and fraud purposes unless law requires longer.
+
+SECTION 7 — CHILDREN
+7.1 Our general storefront is not directed to children under sixteen (16); parental consent required where applicable.
+
+SECTION 8 — EDGE CASES
+E1: Data subject requests for deleted orders may be denied if legal hold applies.
+
+E2: Corporate buyer requests employee data removal: must prove authority.
+
+E3: Lawful intercept requests handled by legal team only.
+
+E4: Analytics opt-out via cookie banner where required.
+
+E5: Phone support recordings retained ninety (90) days unless escalated case extends.
+
+E6: Account merge requires strong verification.
+
+E7: Breach notifications per jurisdictional timelines.
+
+E8: Gift recipient data minimization: purchaser’s email used for receipts unless recipient account created.
+
+E9: Seller KYC data handled per marketplace seller agreement.
+
+E10: Research datasets anonymized; opt-out where required.
+
+Escalate privacy legal requests to DPO inbox.

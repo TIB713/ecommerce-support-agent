@@ -1,0 +1,54 @@
+NORTHLAKE COMMERCE — INTERNATIONAL SHIPPING, DUTIES, AND IMPORT COMPLIANCE
+Effective: 2026-01-01.
+
+SECTION 1 — AVAILABILITY
+1.1 Not all items ship to all countries due to vendor restrictions, export controls, or carrier limitations.
+
+1.2 Some electronics require export licenses; we block checkout if restricted.
+
+SECTION 2 — DUTIES AND TAXES
+2.1 Delivered Duty Paid (DDP): Estimated duties and taxes collected at checkout for supported lanes.
+
+2.2 Delivered Duty Unpaid (DDU): You pay duties upon import; delays may occur at customs.
+
+SECTION 3 — PROHIBITED ITEMS
+3.1 Lithium battery restrictions vary by mode and country; some SKUs cannot ship air internationally.
+
+3.2 Certain agricultural and food items are prohibited.
+
+SECTION 4 — RETURNS FROM ABROAD
+4.1 International returns may require customs declarations; mislabeling may forfeit refunds.
+
+4.2 Return shipping costs may be customer responsibility unless the error was ours.
+
+SECTION 5 — ADDRESS FORMATS
+5.1 Provide Roman characters where possible; failed transliteration may delay delivery.
+
+SECTION 6 — TIMELINES
+6.1 International transit may take two (2) to four (4) weeks depending on lane and customs.
+
+SECTION 7 — DOCUMENTATION
+7.1 Invoices are provided electronically; commercial invoices accompany the package for customs.
+
+SECTION 8 — EDGE CASES
+E1: Customer refuses to pay duties on DDU: package may return; refund minus shipping.
+
+E2: Customs destroys prohibited item: no refund if customer ordered prohibited SKU against warnings.
+
+E3: Brexit/region changes: VAT rules may shift; checkout displays current rule.
+
+E4: Remote islands: surcharges apply.
+
+E5: Military diplomatic pouches: special rules; contact support.
+
+E6: Temporary import for trade shows: not supported for consumer checkout.
+
+E7: Split customs valuation disputes: escalate to trade compliance.
+
+E8: Currency refunds in international orders return in original currency where possible.
+
+E9: Lost inbound return international: carrier claim timelines vary.
+
+E10: Sanctions: if country becomes sanctioned mid-order, we cancel unshipped.
+
+Escalate export control questions to Compliance.

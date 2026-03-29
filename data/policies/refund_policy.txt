@@ -1,0 +1,78 @@
+NORTHLAKE COMMERCE — REFUND POLICY (CONSUMER ORDERS)
+Effective date: 2026-01-01. Version: 4.2. Applies to purchases on NorthlakeCommerce.example and affiliated mobile apps.
+
+SECTION 1 — PURPOSE AND SCOPE
+This Refund Policy explains when Northlake Commerce (“we”, “us”) will issue refunds for eligible purchases, how refunds are calculated, timelines, exclusions, and dispute handling. It applies to consumer purchases of physical goods sold directly by Northlake unless a product-specific policy states otherwise. Business customers must follow the Business Sales Agreement; this document does not govern B2B contracts.
+
+SECTION 2 — ELIGIBILITY FOR REFUNDS
+2.1 Standard eligibility window: For most physical goods, you may request a refund within thirty (30) calendar days of the delivery date shown in your order history, provided the item is returned in original condition with all included accessories, manuals, and packaging where reasonably possible.
+
+2.2 Proof of purchase: Refunds require a valid order number or receipt. Guest checkout orders must be associated with the email address used at purchase. If you cannot verify ownership, we may deny the refund or escalate for manual review.
+
+2.3 Condition requirements: Items must not show misuse, accidental damage, unauthorized modifications, or missing serial numbers where serial tracking applies. If an item is returned in materially different condition than shipped, we may issue a partial refund or deny the refund and offer return shipping back to you at your expense.
+
+SECTION 3 — REFUND METHODS AND TIMING
+3.1 Original payment method: When approved, refunds are credited to the original payment method whenever the payment network allows reversals. Credit and debit card refunds typically post within five (5) to ten (10) business days after approval, but your bank may take additional time.
+
+3.2 Store credit option: If you choose store credit during the refund request flow, credit is applied to your account within two (2) business days of approval and expires three hundred sixty-five (365) days after issuance unless stated otherwise in a promotion-specific rule.
+
+3.3 Split payments: If you used multiple payment methods, refunds are allocated proportionally unless regulatory rules require a different allocation.
+
+SECTION 4 — NON-REFUNDABLE CATEGORIES (EXAMPLES)
+4.1 Digital goods: Downloadable software, eBooks, digital gift codes once delivered, and subscription renewals after the renewal charge are not refundable except where required by law or an explicit written exception from Customer Care.
+
+4.2 Personalized or made-to-order items: Custom engraving, monogramming, tailored apparel, and build-to-order PCs are non-refundable once production begins. If production has not started, you may cancel under the Cancellation Policy.
+
+4.3 Hygiene and safety items: Earbuds, mattresses (once opened), personal care devices, and certain health products may be non-returnable after opening due to hygiene rules. If sealed and unopened, standard return rules apply.
+
+4.4 Final sale items: Items marked “Final Sale” at checkout are not eligible for refunds except for shipping damage or mis-shipment verified by our team.
+
+SECTION 5 — PARTIAL REFUNDS
+5.1 Restocking fees: Certain electronics categories may incur a restocking fee of up to fifteen percent (15%) when returned opened but functional. The fee is disclosed on the product page when applicable.
+
+5.2 Missing components: If you return an item missing required parts, we may deduct the replacement cost of those parts from your refund.
+
+5.3 Promotional bundles: If you return one item from a bundle, the discount may be voided and the refund recalculated based on standalone item pricing at the time of purchase.
+
+SECTION 6 — EXCEPTIONS AND SPECIAL CASES
+6.1 Extended holiday window: Purchases made between November 15 and December 24 may be returned through January 31 of the following year for refund eligibility, subject to the same condition rules.
+
+6.2 Defective items outside return window: If a manufacturing defect is confirmed after the standard window, we may offer repair, replacement, or partial credit under the Warranty Policy rather than a full refund.
+
+6.3 Regulatory overrides: If local consumer protection law mandates a longer cooling-off period or mandatory refund rights, those rules supersede conflicting sections of this policy for eligible consumers.
+
+SECTION 7 — CHARGEBACKS AND PAYMENT DISPUTES
+7.1 If you initiate a chargeback, we may pause refund processing until the dispute resolves. If a chargeback is found in our favor, any provisional refund may be reversed.
+
+7.2 Friendly fraud: Repeated chargebacks after successful delivery may lead to account restrictions and escalation to fraud review.
+
+SECTION 8 — PROCESS AND ESCALATIONS
+8.1 Submit requests through the Order History page. Provide photos for damage claims. Missing information may delay processing.
+
+8.2 Escalation triggers include: conflicting delivery scans, high-value orders above five thousand dollars ($5,000), suspected policy abuse, and legal threats. Escalated cases may take up to twenty (20) business days.
+
+SECTION 9 — CONTACT
+Customer Care: support@northlakecommerce.example. Include your order number and a concise description. Phone support hours are posted on the website and may vary by region.
+
+APPENDIX A — EDGE CASE EXAMPLES (NON-EXHAUSTIVE)
+Example E1: Customer orders a laptop, removes factory seal, then requests refund within seven days for “changed mind.” If the product page discloses a restocking fee for opened laptops, a partial refund may apply.
+
+Example E2: Customer claims non-receipt but tracking shows signature delivery. We require carrier investigation; refund may be denied if delivery is confirmed to the address on file.
+
+Example E3: Customer uses a promo code and returns item; refund amount excludes the promo value if the promotion terms state single-use discounts are forfeited on partial returns.
+
+Example E4: International currency fluctuations do not change the refund amount in your original charged currency, except where payment processor rules require adjustments.
+
+Example E5: If a refund is issued in error, we may recover the amount via authorized charge or offset against future credits after written notice.
+
+Example E6: Gift recipients may receive refunds as store credit only unless the purchaser authorizes reversal to the original card.
+
+Example E7: If an item is recalled for safety, refunds are expedited and restocking fees waived for affected serial number ranges announced by the manufacturer.
+
+Example E8: Subscription add-ons purchased with physical items follow the physical item return rules for the hardware portion and digital rules for the subscription portion.
+
+Example E9: If a customer refuses delivery and the package returns to us, we may refund minus return shipping costs if the order was not our error.
+
+Example E10: Refunds for orders placed with third-party financing partners follow the lender’s posting timelines; we cannot accelerate lender-side processing.
+
+This policy is updated periodically. The version at the time of purchase governs unless law requires otherwise.

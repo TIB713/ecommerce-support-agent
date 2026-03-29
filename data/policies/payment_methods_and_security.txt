@@ -1,0 +1,57 @@
+NORTHLAKE COMMERCE — PAYMENT METHODS, AUTHENTICATION, AND SECURITY
+Effective: 2026-01-01.
+
+SECTION 1 — ACCEPTED PAYMENT TYPES
+1.1 Major credit and debit cards, digital wallets where enabled, installment plans through approved partners, and store credit.
+
+1.2 Bank transfers may be available for B2B accounts only.
+
+SECTION 2 — AUTHENTICATION AND FRAUD CHECKS
+2.1 We may require CVV match, AVS match, 3-D Secure, or OTP verification for high-risk transactions.
+
+2.2 If authentication fails, the order may be canceled to protect account holders.
+
+SECTION 3 — INSTALLMENTS
+3.1 Installment offers are subject to partner approval. If approved, you enter a contract with the lender; we are not the lender.
+
+3.2 Early payoff rules follow lender terms.
+
+SECTION 4 — GIFT CARDS AND SPLIT PAYMENT
+4.1 You may combine gift cards with other payment methods up to platform limits.
+
+4.2 If an order is partially paid by gift card and partially refunded, refunds may prioritize card reversal rules per network guidelines.
+
+SECTION 5 — CURRENCY AND CONVERSION
+5.1 You are charged in the currency selected at checkout. FX fees may be applied by your bank for international cards.
+
+SECTION 6 — FAILED PAYMENTS AND RETRIES
+6.1 If capture fails at shipment, we notify you to update payment within forty-eight (48) hours or the order may cancel.
+
+SECTION 7 — CHARGEBACKS
+7.1 Chargebacks may result in account restrictions until resolved.
+
+SECTION 8 — ACCOUNT SECURITY
+8.1 Enable two-factor authentication. We may force password resets on suspicious logins.
+
+SECTION 9 — EDGE CASES
+E1: Card expired between order and shipment: update required or cancel.
+
+E2: Corporate card requires PO number: enter at checkout; missing PO may delay B2B fulfillment.
+
+E3: Prepaid cards without billing address may fail AVS repeatedly.
+
+E4: Partial authorization holds for multi-shipment orders may confuse banks; we provide invoice breakdown on request.
+
+E5: Wallet tokenization errors: try direct card entry.
+
+E6: Recurring subscription payment fails: grace period three (3) days then pause.
+
+E7: Fraud alert from bank declines charge: customer must call bank then retry.
+
+E8: Cryptocurrency is not accepted unless a pilot program explicitly enables it for specific SKUs.
+
+E9: If customer disputes duplicate charge but two orders exist, provide both order numbers.
+
+E10: Refund to canceled card: bank handles via account routing rules; may become check.
+
+Escalate payment anomalies to Payments Ops.

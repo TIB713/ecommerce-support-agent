@@ -1,0 +1,50 @@
+NORTHLAKE COMMERCE — GIFT CARDS, STORE CREDIT, AND PROMOTIONAL CREDITS
+Effective: 2026-01-01.
+
+SECTION 1 — GIFT CARD TYPES
+1.1 Digital and physical gift cards are available where legally permitted.
+
+1.2 Gift cards are not redeemable for cash except where required by law below certain balances.
+
+SECTION 2 — EXPIRATION
+2.1 Gift cards expire after five (5) years of inactivity in many jurisdictions; local rules may extend or shorten.
+
+2.2 Promotional credits may expire sooner; expiration dates appear in account notifications.
+
+SECTION 3 — LOSS AND THEFT
+3.1 Treat gift cards like cash. Replacements require proof of purchase and may be denied if redeemed already.
+
+SECTION 4 — FRAUDULENT PURCHASES
+4.1 Gift cards purchased with stolen funds will be voided upon confirmation.
+
+SECTION 5 — PARTIAL REDEMPTION
+5.1 Balances remain on account until used or expired.
+
+SECTION 6 — RETURNS PAID BY GIFT CARD
+6.1 Refunds for orders paid by gift card return to gift card balance.
+
+SECTION 7 — B2B INCENTIVES
+7.1 Volume gift card purchases may require contractual terms and anti-resale clauses.
+
+SECTION 8 — EDGE CASES
+E1: Customer buys gift card with coupon where prohibited: order canceled.
+
+E2: International gift card redemption blocked in unsupported regions.
+
+E3: Split payment refund allocates per Refund Policy.
+
+E4: Gift card used then chargeback on funding card: balance clawed back.
+
+E5: Promotional credit not stackable with employee discount.
+
+E6: Charity donation via gift card: special SKU rules.
+
+E7: Lost email containing digital card: resend after verification.
+
+E8: Physical card damaged unscannable: replacement after validation.
+
+E9: Negative balance after partial chargeback: account limited until resolved.
+
+E10: Merger and acquisition of brand: legacy cards honored per announcement.
+
+Escalate high-value gift card disputes to Finance.

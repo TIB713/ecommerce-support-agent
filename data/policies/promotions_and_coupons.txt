@@ -1,0 +1,65 @@
+NORTHLAKE COMMERCE — PROMOTIONS, COUPONS, AND PRICE MATCH RULES
+Effective: 2026-01-01.
+
+SECTION 1 — COUPON TYPES
+1.1 Percent-off coupons apply to eligible items before tax, excluding shipping unless explicitly stated.
+
+1.2 Fixed-amount coupons require a minimum subtotal where disclosed on the coupon.
+
+1.3 Single-use coupons become void after successful checkout unless the promotion states multi-use.
+
+SECTION 2 — STACKING
+2.1 Unless a promotion explicitly allows stacking, only one promotional code may be used per order.
+
+2.2 Automatic cart promotions may combine with free shipping thresholds if stated in the campaign terms.
+
+SECTION 3 — EXCLUSIONS
+3.1 Exclusions include gift cards, services, extended warranties, and certain brands that opt out. Excluded brands are listed in campaign fine print.
+
+3.2 Marketplace items may be excluded from site-wide coupons at the seller’s discretion.
+
+SECTION 4 — PRORATION ON RETURNS
+4.1 If you return part of an order that used a coupon, the discount may be forfeited or reallocated, reducing your refund consistent with the Refund Policy.
+
+4.2 Buy-two-get-one promotions require returning all promotional units to recover full refund amounts.
+
+SECTION 5 — PRICE MATCH POLICY (WHERE OFFERED)
+5.1 If a price match program is active, it applies to identical SKU, same model year, same color, sold by an approved competitor list posted on our site.
+
+5.2 Price match requests must occur before purchase or within seven (7) days after purchase if the program allows post-purchase adjustments.
+
+5.3 We exclude clearance, liquidation, membership club pricing requiring paid membership, bundle mis-matches, and pricing errors.
+
+SECTION 6 — ABUSE AND FRAUD
+6.1 Creating multiple accounts to reuse new-customer coupons violates policy; we may void discounts and close accounts.
+
+6.2 Coupon resale or publication of single-use codes may lead to deactivation.
+
+SECTION 7 — ADVERTISING MISTAKES
+7.1 Obvious pricing errors may be corrected before shipment; you will be notified and may cancel if you disagree with the corrected price.
+
+SECTION 8 — LOYALTY AND CREDITS
+8.1 Loyalty points accrue per published earn rates; points cannot be purchased and have no cash value except where converted per program rules.
+
+SECTION 9 — EDGE CASES
+E1: Customer applies coupon then price match; the lower net price method applies as stated in campaign rules; not both if prohibited.
+
+E2: Partial backorder: coupon validity may require shipment by a deadline; if missed, discount may be voided.
+
+E3: Tax-inclusive jurisdictions: discount applies to pre-tax subtotal where tax law requires.
+
+E4: Refunds involving coupons may take longer due to reconciliation with promo partners.
+
+E5: Employee discount cannot combine with public coupons unless HR policy allows during specific events.
+
+E6: If a coupon fails at checkout due to technical error but eligibility was valid, Customer Care may issue a one-time courtesy credit.
+
+E7: Flash sales with limited inventory: rainchecks are not offered unless explicitly stated.
+
+E8: Bundle discount requires all items; removing one item post-purchase voids bundle price on retained items per refund rules.
+
+E9: Manufacturer rebates are separate; follow rebate instructions; our coupons do not stack with mail-in rebates where prohibited.
+
+E10: Currency-specific coupons work only in the currency issued.
+
+Contact Promotions Support for disputes with documentation.

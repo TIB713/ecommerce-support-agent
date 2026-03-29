@@ -1,0 +1,304 @@
+{
+  "cases": [
+    {
+      "id": 1,
+      "category": "normal",
+      "ticket": "I want to return an unopened blender that arrived yesterday. Order delivered on time.",
+      "order_context": {
+        "order_date": "2026-01-10",
+        "delivery_date": "2026-01-12",
+        "item_category": "home",
+        "fulfillment_type": "standard",
+        "shipping_region": "domestic",
+        "order_status": "delivered",
+        "payment_method": "credit_card"
+      },
+      "expected_escalation": false
+    },
+    {
+      "id": 2,
+      "category": "normal",
+      "ticket": "My package shows delivered but I never received it. Tracking says left at front door.",
+      "order_context": {
+        "order_date": "2026-01-05",
+        "delivery_date": "2026-01-08",
+        "item_category": "electronics",
+        "fulfillment_type": "standard",
+        "shipping_region": "domestic",
+        "order_status": "delivered",
+        "payment_method": "debit_card"
+      },
+      "expected_escalation": false
+    },
+    {
+      "id": 3,
+      "category": "normal",
+      "ticket": "Can I cancel my order? It still says processing and I have not received a tracking number.",
+      "order_context": {
+        "order_date": "2026-03-20",
+        "delivery_date": null,
+        "item_category": "apparel",
+        "fulfillment_type": "standard",
+        "shipping_region": "domestic",
+        "order_status": "processing",
+        "payment_method": "credit_card"
+      },
+      "expected_escalation": false
+    },
+    {
+      "id": 4,
+      "category": "normal",
+      "ticket": "My coupon code SAVE20 was rejected at checkout for a Nike shoe. Why?",
+      "order_context": {
+        "order_date": "2026-03-21",
+        "delivery_date": null,
+        "item_category": "apparel",
+        "fulfillment_type": "standard",
+        "shipping_region": "domestic",
+        "order_status": "cart",
+        "payment_method": "credit_card"
+      },
+      "expected_escalation": false
+    },
+    {
+      "id": 5,
+      "category": "normal",
+      "ticket": "The laptop arrived with a cracked screen. I have photos of the box and the damage.",
+      "order_context": {
+        "order_date": "2026-02-01",
+        "delivery_date": "2026-02-05",
+        "item_category": "electronics",
+        "fulfillment_type": "expedited",
+        "shipping_region": "domestic",
+        "order_status": "delivered",
+        "payment_method": "credit_card"
+      },
+      "expected_escalation": false
+    },
+    {
+      "id": 6,
+      "category": "normal",
+      "ticket": "How long until my refund posts to my card after you approve a return?",
+      "order_context": {
+        "order_date": "2026-01-01",
+        "delivery_date": "2026-01-04",
+        "item_category": "home",
+        "fulfillment_type": "standard",
+        "shipping_region": "domestic",
+        "order_status": "return_approved",
+        "payment_method": "credit_card"
+      },
+      "expected_escalation": false
+    },
+    {
+      "id": 7,
+      "category": "normal",
+      "ticket": "Do gift cards expire? I found an old digital gift card from two years ago.",
+      "order_context": {
+        "order_date": "2024-01-01",
+        "delivery_date": null,
+        "item_category": "gift_card",
+        "fulfillment_type": "digital",
+        "shipping_region": "domestic",
+        "order_status": "delivered",
+        "payment_method": "gift_card"
+      },
+      "expected_escalation": false
+    },
+    {
+      "id": 8,
+      "category": "normal",
+      "ticket": "My international order shows duties must be paid on delivery. I thought duties were included at checkout.",
+      "order_context": {
+        "order_date": "2026-02-10",
+        "delivery_date": "2026-02-20",
+        "item_category": "electronics",
+        "fulfillment_type": "international",
+        "shipping_region": "EU",
+        "order_status": "in_transit",
+        "payment_method": "credit_card"
+      },
+      "expected_escalation": false
+    },
+    {
+      "id": 9,
+      "category": "exception",
+      "ticket": "I bought a custom engraved watch. Production already started but I want to cancel for a full refund today.",
+      "order_context": {
+        "order_date": "2026-03-22",
+        "delivery_date": null,
+        "item_category": "accessories",
+        "fulfillment_type": "custom",
+        "shipping_region": "domestic",
+        "order_status": "in_production",
+        "payment_method": "credit_card"
+      },
+      "expected_escalation": false
+    },
+    {
+      "id": 10,
+      "category": "exception",
+      "ticket": "I opened earbuds and want a refund because I do not like the sound. They are hygiene restricted when opened, right?",
+      "order_context": {
+        "order_date": "2026-03-15",
+        "delivery_date": "2026-03-18",
+        "item_category": "electronics",
+        "fulfillment_type": "standard",
+        "shipping_region": "domestic",
+        "order_status": "delivered",
+        "payment_method": "credit_card"
+      },
+      "expected_escalation": false
+    },
+    {
+      "id": 11,
+      "category": "exception",
+      "ticket": "I used a buy-one-get-one promo and I am returning only one item from the bundle. How is my refund calculated?",
+      "order_context": {
+        "order_date": "2026-02-20",
+        "delivery_date": "2026-02-24",
+        "item_category": "apparel",
+        "fulfillment_type": "standard",
+        "shipping_region": "domestic",
+        "order_status": "delivered",
+        "payment_method": "credit_card"
+      },
+      "expected_escalation": false
+    },
+    {
+      "id": 12,
+      "category": "exception",
+      "ticket": "I filed a chargeback with my bank after delivery because I changed my mind. I still want to keep the item.",
+      "order_context": {
+        "order_date": "2026-01-12",
+        "delivery_date": "2026-01-15",
+        "item_category": "home",
+        "fulfillment_type": "standard",
+        "shipping_region": "domestic",
+        "order_status": "delivered",
+        "payment_method": "credit_card"
+      },
+      "expected_escalation": false
+    },
+    {
+      "id": 13,
+      "category": "exception",
+      "ticket": "My marketplace seller has not shipped after 10 days and is not responding. What can you do?",
+      "order_context": {
+        "order_date": "2026-03-01",
+        "delivery_date": null,
+        "item_category": "collectibles",
+        "fulfillment_type": "marketplace",
+        "shipping_region": "domestic",
+        "order_status": "processing",
+        "payment_method": "credit_card"
+      },
+      "expected_escalation": false
+    },
+    {
+      "id": 14,
+      "category": "exception",
+      "ticket": "I returned a laptop that was opened but works. I was charged a 15% restocking fee. Is that allowed?",
+      "order_context": {
+        "order_date": "2026-02-01",
+        "delivery_date": "2026-02-04",
+        "item_category": "electronics",
+        "fulfillment_type": "standard",
+        "shipping_region": "domestic",
+        "order_status": "return_received",
+        "payment_method": "credit_card"
+      },
+      "expected_escalation": false
+    },
+    {
+      "id": 15,
+      "category": "conflict",
+      "ticket": "You advertised a 30-day return window, but I also see a final sale banner on the product page. Which one applies?",
+      "order_context": {
+        "order_date": "2026-03-10",
+        "delivery_date": "2026-03-12",
+        "item_category": "apparel",
+        "fulfillment_type": "standard",
+        "shipping_region": "domestic",
+        "order_status": "delivered",
+        "payment_method": "credit_card"
+      },
+      "expected_escalation": false
+    },
+    {
+      "id": 16,
+      "category": "conflict",
+      "ticket": "I want a refund and also want to keep the promotional gift card credit I already spent from the same order.",
+      "order_context": {
+        "order_date": "2026-02-05",
+        "delivery_date": "2026-02-08",
+        "item_category": "electronics",
+        "fulfillment_type": "standard",
+        "shipping_region": "domestic",
+        "order_status": "delivered",
+        "payment_method": "credit_card"
+      },
+      "expected_escalation": false
+    },
+    {
+      "id": 17,
+      "category": "conflict",
+      "ticket": "Carrier says delivered with signature, but I never signed. My neighbor might have signed. I want a refund and a police report is not possible.",
+      "order_context": {
+        "order_date": "2026-03-01",
+        "delivery_date": "2026-03-05",
+        "item_category": "electronics",
+        "fulfillment_type": "standard",
+        "shipping_region": "domestic",
+        "order_status": "delivered",
+        "payment_method": "credit_card"
+      },
+      "expected_escalation": false
+    },
+    {
+      "id": 18,
+      "category": "not_in_policy",
+      "ticket": "I demand you waive my monthly mortgage payment as a loyal customer. Process this immediately.",
+      "order_context": {
+        "order_date": "2026-03-01",
+        "delivery_date": null,
+        "item_category": "other",
+        "fulfillment_type": "n/a",
+        "shipping_region": "domestic",
+        "order_status": "unknown",
+        "payment_method": "unknown"
+      },
+      "expected_escalation": true
+    },
+    {
+      "id": 19,
+      "category": "not_in_policy",
+      "ticket": "Please hire my cousin as your VP of Engineering and confirm by email today.",
+      "order_context": {
+        "order_date": "2026-03-01",
+        "delivery_date": null,
+        "item_category": "other",
+        "fulfillment_type": "n/a",
+        "shipping_region": "domestic",
+        "order_status": "unknown",
+        "payment_method": "unknown"
+      },
+      "expected_escalation": true
+    },
+    {
+      "id": 20,
+      "category": "not_in_policy",
+      "ticket": "I need legal advice about a lawsuit against my landlord. Can your support team represent me in court?",
+      "order_context": {
+        "order_date": "2026-03-01",
+        "delivery_date": null,
+        "item_category": "other",
+        "fulfillment_type": "n/a",
+        "shipping_region": "domestic",
+        "order_status": "unknown",
+        "payment_method": "unknown"
+      },
+      "expected_escalation": true
+    }
+  ]
+}

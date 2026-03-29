@@ -1,0 +1,50 @@
+NORTHLAKE COMMERCE — SUBSCRIPTIONS, SOFTWARE LICENSES, AND DIGITAL DELIVERY
+Effective: 2026-01-01.
+
+SECTION 1 — DIGITAL DELIVERY
+1.1 Digital products are deemed delivered when the download link is made available or the license key is displayed.
+
+1.2 Refunds for digital goods are generally not available after delivery except where required by law or explicit written exceptions.
+
+SECTION 2 — SUBSCRIPTION TERMS
+2.1 Subscriptions renew automatically at the stated interval unless canceled before the renewal date.
+
+2.2 You may cancel future renewals in Account Settings; canceling does not refund the current period unless a promotional guarantee applies.
+
+SECTION 3 — FREE TRIALS
+3.1 Trials convert to paid unless canceled during the trial window. Reminder emails are courtesy, not guaranteed.
+
+SECTION 4 — PRICE CHANGES
+4.1 We may change subscription prices with thirty (30) days notice; you may cancel before the new price takes effect.
+
+SECTION 5 — BUNDLED HARDWARE
+5.1 Hardware promotions tied to subscription commitments may charge a recovery fee if you cancel early, as disclosed at purchase.
+
+SECTION 6 — LICENSE RESTRICTIONS
+6.1 Software licenses are non-transferable unless the EULA allows.
+
+SECTION 7 — CLOUD SERVICES UPTIME
+7.1 Uptime targets are aspirational unless a separate SLA is purchased for business accounts.
+
+SECTION 8 — EDGE CASES
+E1: Customer disputes digital delivery but IP logs show access: denial of refund.
+
+E2: Family sharing violations may revoke licenses.
+
+E3: Student verification fails mid-subscription: may revert to standard pricing.
+
+E4: App store purchases follow platform rules; we cannot override Apple/Google refund decisions.
+
+E5: Preorder software key delays: cancel before key issuance allowed.
+
+E6: Annual plan proration on early cancel: typically no cash refund; credit may be offered case-by-case.
+
+E7: Gifted subscription: recipient manages cancel; purchaser cannot always revoke.
+
+E8: Enterprise keys mistakenly sold retail: recalled and replaced.
+
+E9: DRM server shutdown legacy titles: compensation may be store credit per announcement.
+
+E10: Beta access subscriptions: may end when product launches.
+
+Escalate enterprise licensing to B2B team.

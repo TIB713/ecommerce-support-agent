@@ -1,0 +1,109 @@
+NORTHLAKE COMMERCE — REGULATORY COMPLIANCE SUPPLEMENT (MULTI-JURISDICTION)
+Effective: 2026-01-01. Supporting document for customer support interpretation.
+
+PART A — CONSUMER RIGHTS OVERVIEWS (GENERAL)
+This supplement provides internal-style guidance for how Northlake Commerce applies overlapping regulations. It does not constitute legal advice. Local law controls where it conflicts with internal policy.
+
+A1 — Cooling-off rights: Some regions grant statutory withdrawal rights for distance sales within fourteen (14) days of delivery for eligible goods. Exceptions include sealed goods that cannot be returned for hygiene, perishable goods, and custom goods, mirroring themes in our Returns Policy.
+
+A2 — Repair/replace remedies: Certain jurisdictions require repair or replacement for defects within a statutory period even if our discretionary return window closed. Escalate to Legal when customers cite specific statutes by name.
+
+A3 — Accessibility: We provide reasonable accommodations for support access. Customers requesting alternate formats should be routed to Accessibility Services.
+
+A4 — Product safety recalls: If a government agency announces a recall, follow the recall microsite instructions. Refunds may be expedited and may supersede restocking fees.
+
+A5 — Environmental fees: Some electronics include recycling fees at checkout; refunds may include fee reversals proportional to returned items.
+
+PART B — PAYMENTS AND ANTI-MONEY LAUNDERING
+B1 — High-value gift card purchases may trigger additional verification consistent with AML program rules.
+
+B2 — Refunds to different payment instruments may be restricted to prevent laundering; escalate unusual routing requests.
+
+PART C — EXPORT AND SANCTIONS
+C1 — Orders to embargoed regions must be blocked. If a customer uses freight forwarders to circumvent, cancel and escalate.
+
+C2 — Dual-use technology restrictions may require end-user statements before shipment.
+
+PART D — TELECOM AND IOT DEVICES
+D1 — Devices with radio modules must comply with regional certification marks; wrong region inventory cannot be substituted without customer consent.
+
+PART E — FOOD AND SUPPLEMENTS
+E1 — Health claims must align with labeling; support must not invent medical benefits not on packaging.
+
+PART F — AUTOMOTIVE PARTS
+F1 — Airbag and safety-critical parts may have additional return restrictions.
+
+PART G — APPAREL FLAMMABILITY
+G1 — Children’s sleepwear must meet flammability standards; recalls handled urgently.
+
+PART H — SOFTWARE AND CONTENT
+H1 — Age-gated content requires verified age in supported regions.
+
+PART I — LONG-FORM EDGE SCENARIOS (TRAINING EXAMPLES FOR SUPPORT)
+Scenario I-001: A customer orders a drone; local law bans drones above a weight threshold. Cancel before shipment if compliance flags appear.
+
+Scenario I-002: A customer requests a VAT refund for tourist export; follow country-specific VAT schemes only where we participate.
+
+Scenario I-003: A customer cites GDPR right to erasure but has an open chargeback; explain legal hold on deletion until dispute closes.
+
+Scenario I-004: A customer in a wildfire zone requests expedited shipping; carriers may suspend service; communicate empathetic delay options.
+
+Scenario I-005: A customer wants to return lithium batteries internationally; many lanes prohibit returns; offer local recycling guidance.
+
+Scenario I-006: A customer purchased during a tax holiday; refunds must recalculate tax per state rules.
+
+Scenario I-007: A B2B customer claims VAT exemption; validate VAT ID before zero-rating.
+
+Scenario I-008: A university lab orders controlled chemicals; verify permits.
+
+Scenario I-009: A customer requests data on another person; deny without authorization.
+
+Scenario I-010: A regulator requests customer list; only Legal approves responses.
+
+Scenario I-011: A product is subject to ITAR; verify citizenship for technical data.
+
+Scenario I-012: A customer wants to sue in a foreign court; Terms of Service may specify venue; escalate.
+
+Scenario I-013: A class action notice arrives; Legal handles exclusively.
+
+Scenario I-014: A customer alleges discrimination by a seller; escalate to Marketplace Integrity with sensitivity.
+
+Scenario I-015: A warranty claim involves injury; route to Risk and Legal immediately; do not admit liability in chat.
+
+Scenario I-016: A customer wants to remove reviews; follow content policy appeals.
+
+Scenario I-017: A government voucher program requires invoice formatting; Finance provides templates.
+
+Scenario I-018: A nonprofit tax exemption certificate expired; recalculate tax after validation fails.
+
+Scenario I-019: A customer requests early GDPR access export; provide within statutory timeline.
+
+Scenario I-020: A supply chain forced labor compliance flag appears; halt fulfillment pending clearance.
+
+PART J — CROSS-POLICY CONFLICT RULES
+J1 — If Shipping Policy timelines conflict with a statutory guarantee, the customer-benefiting rule applies where required.
+
+J2 — If Promotions Policy conflicts with Refund Policy on proration, the promotion-specific disclosure at purchase controls if explicit.
+
+J3 — If Marketplace Policy conflicts with Northlake first-party policy on the same order page, display precedence rules at checkout govern.
+
+PART K — DOCUMENT CONTROL
+K1 — Archived versions available upon request for disputes referencing historical terms.
+
+K2 — Translation discrepancies: English version controls unless local law requires local language precedence.
+
+PART L — SUPPORT ESCALATION MATRIX (SUMMARY)
+L1 — Legal threat: Tier 2 + Legal inbox.
+
+L2 — Regulatory inquiry: Compliance.
+
+L3 — Press inquiry: Communications team only.
+
+L4 — Law enforcement: Legal + Security.
+
+This supplement is intentionally long to provide training breadth for retrieval-augmented support tools and human agents. It repeats key themes: verify identity, verify evidence, do not invent law, escalate uncertainty, and prioritize safety.
+
+EXTENDED REPETITION FOR COVERAGE (PROCEDURAL DETAIL)
+When two policies appear to conflict, agents must identify the governing document based on purchase date, product category, and checkout disclosures. When customers provide incomplete facts, request structured information: order number, dates, photos, and prior case IDs. When automated tools suggest an answer, validate citations against source documents. When risk signals appear, apply step-up verification before issuing refunds. When customers express distress, use empathetic tone without promising outcomes not supported by policy text. When high monetary values are involved, require managerial approval thresholds as defined in internal playbooks not reproduced here. When international customers cite unfamiliar agencies, do not confirm validity; escalate. When customers threaten self-harm, follow crisis escalation procedures beyond commerce policies. When customers share sensitive medical information, minimize collection to what is needed for the claim. When children are involved, prioritize safety and parental consent rules. When enterprise contracts exist, consumer policies may not apply; route to account teams. When promotional stacking errors occur, correct to the legally compliant lowest price for the customer if required by local law. When tax invoices must be reissued, Finance controls numbering. When gift messages include offensive content, filter per community standards. When fraud models disagree, human review decides. When delivery robots are used in pilot cities, follow pilot liability terms posted locally. When drone delivery becomes available, follow no-fly geofencing refunds. When smart appliance telemetry indicates misuse, warranty may be voided cautiously with engineering review. When customers request deletion of reviews, follow review policy appeals. When customers request early shipment for bereavement, empathy exceptions may be granted within defined limits. When packaging indicates tampering, security investigates before refund. When multiple coupons were applied due to bug, orders may be corrected before shipment. When inventory is mis-synced, cancel oversells with compensation per posted rules. When customers request donation of refund to charity, use approved charity SKUs only. When language barriers exist, offer translation services where available. When hearing-impaired customers need support, offer relay-compatible options. When blind customers need accessible return labels, provide assistance. When elderly customers need phone help, prioritize queue ethically within fairness constraints. When VIP customers have perks, ensure perks do not violate anti-discrimination norms. When influencer orders are flagged, validate sponsorship disclosures. When resale operators abuse returns, apply anti-abuse measures. When liquidation sales are final, reinforce final sale terms clearly. When catastrophic weather hits warehouses, notify delays proactively. When union actions affect fulfillment, post notices. When cybersecurity incidents occur, follow incident response communications. When AI-generated misinformation about our policies spreads, correct with authoritative links. When customers confuse marketplace sellers with Northlake, clarify seller of record. When currency swings affect refunds, explain settlement rules. When blockchain experiments occur, follow special terms if launched. When AR try-on results mismatch fit, returns follow standard apparel rules unless AR-specific guarantee exists. When subscription pause is requested, follow subscription terms. When customers want to consolidate orders, fees may apply. When split payment across cards fails mid-order, release authorizations per bank timing. When corporate procurement requires PO matching, do not bypass. When tax-exempt schools order, validate certificates. When government entities order, follow contract vehicles. When disaster relief exemptions apply, verify FEMA guidelines where integrated. When humanitarian shipments need priority, coordinate with CSR programs if active. When product registration is required for warranty, remind customers timely. When recall expansions occur, proactively notify affected cohorts. When software patches fix defects, warranty may be satisfied by patch delivery. When customers migrate accounts, preserve entitlements carefully. When loyalty merges across brands, map tiers fairly. When gift card promotions create run-rate risk, cap redemptions. When shipping insurance claims arise, collect evidence systematically. When customers request carbon offsets, follow green program terms. When packaging return programs exist, provide labels where offered. When trade-in programs value devices, grading disputes follow trade-in micro-policy. When rental programs exist, late fees follow rental agreement. When lease-to-own applies, lender terms govern. When buy-now-pay-later splits, lender handles disputes on finance charges. When crypto pilot ends, migrate customers per notice. When NFT claims arise, follow NFT terms if sold. When AI assistant gives wrong info, human agents correct with citations. When this document contradicts itself due to versioning, newest effective date wins unless law requires grandfathering.
+
+END OF SUPPLEMENT

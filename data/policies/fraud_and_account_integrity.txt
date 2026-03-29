@@ -1,0 +1,57 @@
+NORTHLAKE COMMERCE — FRAUD PREVENTION AND ACCOUNT INTEGRITY POLICY
+Effective: 2026-01-01.
+
+SECTION 1 — PURPOSE
+This policy explains how we detect and respond to fraud, account takeover, abusive returns, and collusion between buyers and sellers on our marketplace.
+
+SECTION 2 — VERIFICATION
+2.1 We may request identity verification for high-risk orders, changed shipping addresses, or unusual purchase velocity.
+
+2.2 Failure to complete verification may lead to order cancellation.
+
+SECTION 3 — ACCOUNT RESTRICTIONS
+3.1 Temporary holds may apply while we investigate chargebacks, return anomalies, or promo abuse.
+
+3.2 Permanent closure may occur for severe violations, subject to appeal processes where required by law.
+
+SECTION 4 — MARKETPLACE FRAUD
+4.1 Sellers listing counterfeit goods may be suspended and funds held pending investigation.
+
+4.2 Buyers colluding with sellers to extract refunds may be prosecuted where applicable.
+
+SECTION 5 — CHARGEBACK AND RETURN ABUSE
+5.1 “Item not received” claims contradicted by carrier evidence may lead to account flags.
+
+5.2 Bracketing purchases (buying many variants to return most) may lose free returns privileges.
+
+SECTION 6 — DEVICE AND IP SIGNALS
+6.1 Automated risk models use device fingerprints and IP reputation as signals, not sole determinants.
+
+SECTION 7 — APPEALS
+7.1 You may submit documentation via the appeal portal. Decisions typically within ten (10) business days.
+
+SECTION 8 — LAW ENFORCEMENT
+8.1 We cooperate with lawful requests and may preserve records.
+
+SECTION 9 — EDGE CASES
+E1: Gift purchase flagged as fraud; purchaser must verify.
+
+E2: VPN usage triggers step-up auth.
+
+E3: New account large electronics order: common verification path.
+
+E4: Shared household accounts: mixed signals resolved via identity proof.
+
+E5: Stolen card reported after shipment: follow chargeback process.
+
+E6: Account takeover after SIM swap: recovery via backup codes and support.
+
+E7: Seller coercion reviews: fraud team investigates patterns.
+
+E8: Coupon farms: bulk account creation blocked.
+
+E9: Refund mules: shipping to freight forwarders may be restricted.
+
+E10: High return rate in apparel try-on abuse: restocking fees applied.
+
+Escalate to Trust & Safety for coordinated inauthentic behavior.
