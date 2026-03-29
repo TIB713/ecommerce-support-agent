@@ -1,304 +1,184 @@
 {
   "cases": [
     {
-      "id": 1,
+      "id": "TC_01",
       "category": "normal",
-      "ticket": "I want to return an unopened blender that arrived yesterday. Order delivered on time.",
-      "order_context": {
-        "order_date": "2026-01-10",
-        "delivery_date": "2026-01-12",
-        "item_category": "home",
-        "fulfillment_type": "standard",
-        "shipping_region": "domestic",
-        "order_status": "delivered",
-        "payment_method": "credit_card"
-      },
-      "expected_escalation": false
+      "input": "Hi — I'd like to return my order #4829103. The kettle is still sealed in the box; it was delivered last Tuesday. Can I get a full refund to my Visa?",
+      "expected": {
+        "classification": "refund",
+        "decision": "approve"
+      }
     },
     {
-      "id": 2,
+      "id": "TC_02",
       "category": "normal",
-      "ticket": "My package shows delivered but I never received it. Tracking says left at front door.",
-      "order_context": {
-        "order_date": "2026-01-05",
-        "delivery_date": "2026-01-08",
-        "item_category": "electronics",
-        "fulfillment_type": "standard",
-        "shipping_region": "domestic",
-        "order_status": "delivered",
-        "payment_method": "debit_card"
-      },
-      "expected_escalation": false
+      "input": "My monitor arrived today and the screen is cracked. I took pictures of the crushed corner of the outer carton and the damage on the panel. I need a replacement, not a repair.",
+      "expected": {
+        "classification": "refund",
+        "decision": "approve"
+      }
     },
     {
-      "id": 3,
+      "id": "TC_03",
       "category": "normal",
-      "ticket": "Can I cancel my order? It still says processing and I have not received a tracking number.",
-      "order_context": {
-        "order_date": "2026-03-20",
-        "delivery_date": null,
-        "item_category": "apparel",
-        "fulfillment_type": "standard",
-        "shipping_region": "domestic",
-        "order_status": "processing",
-        "payment_method": "credit_card"
-      },
-      "expected_escalation": false
+      "input": "I chose free economy shipping and the tracking page shows my package was delivered 9 business days after the latest date shown at checkout. That's ridiculous. What compensation do I get?",
+      "expected": {
+        "classification": "shipping",
+        "decision": "partial"
+      }
     },
     {
-      "id": 4,
+      "id": "TC_04",
       "category": "normal",
-      "ticket": "My coupon code SAVE20 was rejected at checkout for a Nike shoe. Why?",
-      "order_context": {
-        "order_date": "2026-03-21",
-        "delivery_date": null,
-        "item_category": "apparel",
-        "fulfillment_type": "standard",
-        "shipping_region": "domestic",
-        "order_status": "cart",
-        "payment_method": "credit_card"
-      },
-      "expected_escalation": false
+      "input": "Please cancel order #7712094 entirely — I don't need the jackets anymore. I haven't received any tracking email yet and the status still says processing.",
+      "expected": {
+        "classification": "refund",
+        "decision": "approve"
+      }
     },
     {
-      "id": 5,
+      "id": "TC_05",
       "category": "normal",
-      "ticket": "The laptop arrived with a cracked screen. I have photos of the box and the damage.",
-      "order_context": {
-        "order_date": "2026-02-01",
-        "delivery_date": "2026-02-05",
-        "item_category": "electronics",
-        "fulfillment_type": "expedited",
-        "shipping_region": "domestic",
-        "order_status": "delivered",
-        "payment_method": "credit_card"
-      },
-      "expected_escalation": false
+      "input": "After you approve my return, how long until the money shows up on my Mastercard? I need a straight answer.",
+      "expected": {
+        "classification": "other",
+        "decision": "approve"
+      }
     },
     {
-      "id": 6,
+      "id": "TC_06",
       "category": "normal",
-      "ticket": "How long until my refund posts to my card after you approve a return?",
-      "order_context": {
-        "order_date": "2026-01-01",
-        "delivery_date": "2026-01-04",
-        "item_category": "home",
-        "fulfillment_type": "standard",
-        "shipping_region": "domestic",
-        "order_status": "return_approved",
-        "payment_method": "credit_card"
-      },
-      "expected_escalation": false
+      "input": "You sent me a medium navy hoodie but I ordered a large black one — the packing slip matches what I ordered, the product label inside doesn't. Please send the correct item with a prepaid label for this one.",
+      "expected": {
+        "classification": "refund",
+        "decision": "approve"
+      }
     },
     {
-      "id": 7,
+      "id": "TC_07",
       "category": "normal",
-      "ticket": "Do gift cards expire? I found an old digital gift card from two years ago.",
-      "order_context": {
-        "order_date": "2024-01-01",
-        "delivery_date": null,
-        "item_category": "gift_card",
-        "fulfillment_type": "digital",
-        "shipping_region": "domestic",
-        "order_status": "delivered",
-        "payment_method": "gift_card"
-      },
-      "expected_escalation": false
+      "input": "The cordless drill kit arrived but the extra battery that was supposed to be in the picture on the listing is missing from the case. I want a partial refund for the missing battery or send me the battery; your choice.",
+      "expected": {
+        "classification": "refund",
+        "decision": "partial"
+      }
     },
     {
-      "id": 8,
+      "id": "TC_08",
       "category": "normal",
-      "ticket": "My international order shows duties must be paid on delivery. I thought duties were included at checkout.",
-      "order_context": {
-        "order_date": "2026-02-10",
-        "delivery_date": "2026-02-20",
-        "item_category": "electronics",
-        "fulfillment_type": "international",
-        "shipping_region": "EU",
-        "order_status": "in_transit",
-        "payment_method": "credit_card"
-      },
-      "expected_escalation": false
+      "input": "I paid for Guaranteed Express and FedEx dropped it off a full day after the committed date on my confirmation email. I want my express shipping fee back at minimum.",
+      "expected": {
+        "classification": "shipping",
+        "decision": "approve"
+      }
     },
     {
-      "id": 9,
+      "id": "TC_09",
       "category": "exception",
-      "ticket": "I bought a custom engraved watch. Production already started but I want to cancel for a full refund today.",
-      "order_context": {
-        "order_date": "2026-03-22",
-        "delivery_date": null,
-        "item_category": "accessories",
-        "fulfillment_type": "custom",
-        "shipping_region": "domestic",
-        "order_status": "in_production",
-        "payment_method": "credit_card"
-      },
-      "expected_escalation": false
+      "input": "I'm Elite loyalty. My boots were delivered 41 days ago, unworn with tags. Your site says 30 days but I thought Elite had longer — I want the refund back to my Amex, not store credit.",
+      "expected": {
+        "classification": "refund",
+        "decision": "approve"
+      }
     },
     {
-      "id": 10,
+      "id": "TC_10",
       "category": "exception",
-      "ticket": "I opened earbuds and want a refund because I do not like the sound. They are hygiene restricted when opened, right?",
-      "order_context": {
-        "order_date": "2026-03-15",
-        "delivery_date": "2026-03-18",
-        "item_category": "electronics",
-        "fulfillment_type": "standard",
-        "shipping_region": "domestic",
-        "order_status": "delivered",
-        "payment_method": "credit_card"
-      },
-      "expected_escalation": false
+      "input": "I bought your fragrance-free lotion (opened once to test) and broke out in hives within hours. I can send photos of the reaction and my receipt from urgent care — I need a refund but I don't want a voucher.",
+      "expected": {
+        "classification": "refund",
+        "decision": "partial"
+      }
     },
     {
-      "id": 11,
+      "id": "TC_11",
       "category": "exception",
-      "ticket": "I used a buy-one-get-one promo and I am returning only one item from the bundle. How is my refund calculated?",
-      "order_context": {
-        "order_date": "2026-02-20",
-        "delivery_date": "2026-02-24",
-        "item_category": "apparel",
-        "fulfillment_type": "standard",
-        "shipping_region": "domestic",
-        "order_status": "delivered",
-        "payment_method": "credit_card"
-      },
-      "expected_escalation": false
+      "input": "The ceramic vase looked fine from outside the box but when I unwrapped it six days after delivery I found a hairline crack that leaks water. I didn't notice until I filled it for flowers. Can I still get a replacement?",
+      "expected": {
+        "classification": "refund",
+        "decision": "approve"
+      }
     },
     {
-      "id": 12,
+      "id": "TC_12",
       "category": "exception",
-      "ticket": "I filed a chargeback with my bank after delivery because I changed my mind. I still want to keep the item.",
-      "order_context": {
-        "order_date": "2026-01-12",
-        "delivery_date": "2026-01-15",
-        "item_category": "home",
-        "fulfillment_type": "standard",
-        "shipping_region": "domestic",
-        "order_status": "delivered",
-        "payment_method": "credit_card"
-      },
-      "expected_escalation": false
+      "input": "I ordered a monogrammed leather tote — I changed my mind 6 hours after placing it. Your email says production may already be locked — can you still cancel for a full refund? I never received a ship notice.",
+      "expected": {
+        "classification": "refund",
+        "decision": "needs_info"
+      }
     },
     {
-      "id": 13,
+      "id": "TC_13",
       "category": "exception",
-      "ticket": "My marketplace seller has not shipped after 10 days and is not responding. What can you do?",
-      "order_context": {
-        "order_date": "2026-03-01",
-        "delivery_date": null,
-        "item_category": "collectibles",
-        "fulfillment_type": "marketplace",
-        "shipping_region": "domestic",
-        "order_status": "processing",
-        "payment_method": "credit_card"
-      },
-      "expected_escalation": false
+      "input": "I bought three T-shirts under your buy-two-get-one-free deal. I'm keeping the free one but returning the two I paid for — just process my refund for those two.",
+      "expected": {
+        "classification": "refund",
+        "decision": "partial"
+      }
     },
     {
-      "id": 14,
+      "id": "TC_14",
       "category": "exception",
-      "ticket": "I returned a laptop that was opened but works. I was charged a 15% restocking fee. Is that allowed?",
-      "order_context": {
-        "order_date": "2026-02-01",
-        "delivery_date": "2026-02-04",
-        "item_category": "electronics",
-        "fulfillment_type": "standard",
-        "shipping_region": "domestic",
-        "order_status": "return_received",
-        "payment_method": "credit_card"
-      },
-      "expected_escalation": false
+      "input": "My clearance sweatshirt was marked final sale but the listing photo shows a zip pocket and the one I got has no pocket at all — that's not what I agreed to. I want a full refund and I'll send it back.",
+      "expected": {
+        "classification": "refund",
+        "decision": "approve"
+      }
     },
     {
-      "id": 15,
+      "id": "TC_15",
       "category": "conflict",
-      "ticket": "You advertised a 30-day return window, but I also see a final sale banner on the product page. Which one applies?",
-      "order_context": {
-        "order_date": "2026-03-10",
-        "delivery_date": "2026-03-12",
-        "item_category": "apparel",
-        "fulfillment_type": "standard",
-        "shipping_region": "domestic",
-        "order_status": "delivered",
-        "payment_method": "credit_card"
-      },
-      "expected_escalation": false
+      "input": "The product page said '30-day returns' on the banner but at checkout I also had to tick a box saying final sale for that same SKU. I already received it — which rule actually applies to me?",
+      "expected": {
+        "classification": "refund",
+        "decision": "escalate"
+      }
     },
     {
-      "id": 16,
+      "id": "TC_16",
       "category": "conflict",
-      "ticket": "I want a refund and also want to keep the promotional gift card credit I already spent from the same order.",
-      "order_context": {
-        "order_date": "2026-02-05",
-        "delivery_date": "2026-02-08",
-        "item_category": "electronics",
-        "fulfillment_type": "standard",
-        "shipping_region": "domestic",
-        "order_status": "delivered",
-        "payment_method": "credit_card"
-      },
-      "expected_escalation": false
+      "input": "Only half my order showed up but my card was charged for everything. You're offering a refund for the missing pieces OR a reship, but I want both the missing items shipped and a 50% refund for the hassle. That's only fair.",
+      "expected": {
+        "classification": "shipping",
+        "decision": "partial"
+      }
     },
     {
-      "id": 17,
+      "id": "TC_17",
       "category": "conflict",
-      "ticket": "Carrier says delivered with signature, but I never signed. My neighbor might have signed. I want a refund and a police report is not possible.",
-      "order_context": {
-        "order_date": "2026-03-01",
-        "delivery_date": "2026-03-05",
-        "item_category": "electronics",
-        "fulfillment_type": "standard",
-        "shipping_region": "domestic",
-        "order_status": "delivered",
-        "payment_method": "credit_card"
-      },
-      "expected_escalation": false
+      "input": "The item was marked final sale so you won't refund me for remorse, but it also arrived with the seal broken and a stain — you say I can get a replacement under damage policy but I insist on cash back only, full amount, today.",
+      "expected": {
+        "classification": "refund",
+        "decision": "escalate"
+      }
     },
     {
-      "id": 18,
-      "category": "not_in_policy",
-      "ticket": "I demand you waive my monthly mortgage payment as a loyal customer. Process this immediately.",
-      "order_context": {
-        "order_date": "2026-03-01",
-        "delivery_date": null,
-        "item_category": "other",
-        "fulfillment_type": "n/a",
-        "shipping_region": "domestic",
-        "order_status": "unknown",
-        "payment_method": "unknown"
-      },
-      "expected_escalation": true
+      "id": "TC_18",
+      "category": "not_policy",
+      "input": "Do you sell second-hand or refurbished products anywhere on your site? I'm looking for a used DSLR in good condition.",
+      "expected": {
+        "classification": "other",
+        "decision": "needs_info"
+      }
     },
     {
-      "id": 19,
-      "category": "not_in_policy",
-      "ticket": "Please hire my cousin as your VP of Engineering and confirm by email today.",
-      "order_context": {
-        "order_date": "2026-03-01",
-        "delivery_date": null,
-        "item_category": "other",
-        "fulfillment_type": "n/a",
-        "shipping_region": "domestic",
-        "order_status": "unknown",
-        "payment_method": "unknown"
-      },
-      "expected_escalation": true
+      "id": "TC_19",
+      "category": "not_policy",
+      "input": "I'm writing a school report — who founded your company and what year did it go public? I couldn't find it on the product page.",
+      "expected": {
+        "classification": "other",
+        "decision": "needs_info"
+      }
     },
     {
-      "id": 20,
-      "category": "not_in_policy",
-      "ticket": "I need legal advice about a lawsuit against my landlord. Can your support team represent me in court?",
-      "order_context": {
-        "order_date": "2026-03-01",
-        "delivery_date": null,
-        "item_category": "other",
-        "fulfillment_type": "n/a",
-        "shipping_region": "domestic",
-        "order_status": "unknown",
-        "payment_method": "unknown"
-      },
-      "expected_escalation": true
+      "id": "TC_20",
+      "category": "not_policy",
+      "input": "Can your support team recommend a lawyer for a warranty dispute I'm having with a different retailer? I need legal advice by Friday.",
+      "expected": {
+        "classification": "other",
+        "decision": "deny"
+      }
     }
   ]
 }
