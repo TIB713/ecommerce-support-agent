@@ -1,7 +1,26 @@
-.venv/
+# Python
 __pycache__/
-*.py[cod]
-.pytest_cache/
+*.pyc
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Environment variables
 .env
+
+# FAISS index
+faiss_index/
 data/faiss_index/
+
+# Evaluation outputs
 evaluation/evaluation_report.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
