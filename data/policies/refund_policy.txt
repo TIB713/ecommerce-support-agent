@@ -18,6 +18,8 @@ Suspected abuse (chronic returns, wardrobing, claimed vs. carrier weight mismatc
 
 "Buy two, get third free": returning paid units while keeping the free item claws back free-item value from paid-line refunds (lowest cost allocation) unless all three return.
 
+Conflict rule: if an item is marked final sale but the customer submits photographic evidence that the received product is materially different from the listing (e.g., missing component, incorrect hardware, or clear labeling/packaging mismatch not caused after delivery), the final-sale status does not control and the claim is resolved under the refund/replacement remedies in this policy.
+
 SECTION 4: Processing / Resolution Rules
 
 Refunds post to the original payment method within five (5) to ten (10) business days after warehouse QA passes the return; PayPal and some wallets may settle faster. Internal target for agent-facing promise: "You'll typically see it within two billing cycles—sooner in most cases." For split tender orders, refund applies proportionally unless a line item maps to a single instrument.

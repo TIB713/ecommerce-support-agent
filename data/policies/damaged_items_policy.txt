@@ -24,6 +24,8 @@ SECTION 4: Processing / Resolution Rules
 
 Agents set claim status to Awaiting Evidence until photos meet minimums; auto-approve under $35 pre-negotiated threshold when carrier scans show damage exception codes. For carrier damage with carrier-paid claim pending, we may still front remedy to customer and subrogate internally—do not tell customer to wait for carrier adjudication for first-party remedy under $500.
 
+For claims over $250, warehouse QA must verify packaging tamper/seal integrity and record the QA ticket ID before approving an expedited replacement or any refund option.
+
 Disposition: destroyed-in-field authorization for bulky items only when photos prove total loss and Logistics approves; customer must certify disposal. Refunds after replacement shipped in error (duplicate ship) follow double-shipment procedures in OMS.
 
 Document lot code if visible for Quality trending. Escalate to Legal if injury or ingestion is alleged.

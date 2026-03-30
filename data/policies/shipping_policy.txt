@@ -14,6 +14,8 @@ SECTION 3: Exceptions
 
 Weather emergencies, customs holds, incorrect recipient phone numbers for courier contact-required deliveries, and force majeure events void SLA remedies under the Late Delivery policy but do not automatically waive return rights—refer to Return Exceptions for time extensions. If the customer refuses delivery without initiating a return, outbound and return shipping may be deducted from any eventual refund per Refund policy.
 
+Edge case: for carrier scans marked "no access" (gate/receiver unavailable), we do not provide delivery-fee compensation when the recipient makes themselves available within 24 hours of the attempt; if reschedule occurs after 24 hours or redelivery is rejected, only a shipping-fee waiver may be offered and no item-price concessions apply.
+
 Address changes after label generation: if the package is not yet tendered to the carrier, Operations may re-label for a $15 intercept fee borne by the customer unless the error originated from our entry of their submitted address. Marketplace seller shipments follow the seller's stated handling time; our global shipping fee promotions may not apply.
 
 Conflicting promotion: "Free shipping" coupons stack with subtotal free shipping only when the coupon terms explicitly allow; otherwise the single best benefit applies. Gift orders billed to purchaser but shipped to recipient use purchaser's region for tax and fraud checks.

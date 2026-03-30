@@ -10,6 +10,8 @@ Public reference repo: [TIB713/ecommerce-support-agent](https://github.com/TIB71
 
 Customer support automation must follow **real business rules**. A plain LLM can sound confident while **inventing** refund windows, shipping guarantees, or legal obligations. That creates **compliance risk**, inconsistent buyer experience, and **hallucinated** policy.
 
+**Impact:** This system helps support teams resolve tickets faster and more consistently by grounding decisions in retrieved policy text and validating them via a compliance gate.
+
 This project reduces that risk by:
 
 - **Grounding** answers in retrieved policy text, not the model’s priors.
@@ -46,6 +48,14 @@ User query + order context
         ▼
    JSON output
 ```
+
+### Architecture Flow (Step-by-step)
+
+1. The **Triage Agent** classifies the ticket (refund/shipping/payment/promo/fraud/other) and optionally asks up to three routing questions.
+2. The **Retriever** searches the FAISS index for the most relevant policy chunks for that category.
+3. The **Writer** drafts a decision and customer response using only retrieved policy evidence (or escalates if evidence is missing).
+4. The **Compliance** layer validates citations and unsupported claims; it may rewrite or escalate when needed.
+5. The system returns a single **structured JSON** response that downstream tools can log or act on.
 
 | Stage | Role | Key file(s) |
 |--------|------|--------------|
@@ -240,6 +250,21 @@ My laptop arrived with a cracked screen. I have photos of the box and the damage
 - **decision**: often `approve` for replacement path when policy chunks support damage-in-transit / DOA flows.
 - **citations**: chunk IDs from policies such as damaged-items or replacement rules.
 - **customer_response**: concise next steps (RMA, photos, timeline)—wording varies per model run.
+
+**Example output (JSON)**
+
+```json
+{
+  "classification": "refund",
+  "confidence": 0.86,
+  "clarifying_questions": [],
+  "decision": "approve",
+  "rationale": "Policy allows replacement when concealed damage is reported within the allowed window.",
+  "citations": ["damaged_items_policy_chunk_1"],
+  "customer_response": "I'm sorry about what arrived. Please start a damage claim and upload the requested photos so we can process your replacement.",
+  "internal_notes": ""
+}
+```
 
 ---
 

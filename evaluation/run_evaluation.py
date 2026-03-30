@@ -28,7 +28,7 @@ def _load_cases() -> list[dict]:
 
 
 def run_one(case: dict) -> dict:
-    ticket = case["ticket"]
+    ticket = case.get("ticket") or case.get("input") or ""
     ctx = case.get("order_context") or {}
     triage = run_triage(ticket, ctx)
     retrieval = run_policy_retriever(
@@ -65,6 +65,10 @@ def run_one(case: dict) -> dict:
     unsupported = 0.0 if compliance.passed else 1.0
 
     exp_esc = case.get("expected_escalation")
+    if exp_esc is None:
+        exp_dict = case.get("expected")
+        if isinstance(exp_dict, dict) and "decision" in exp_dict:
+            exp_esc = exp_dict.get("decision") == "escalate"
     if exp_esc is None:
         escalation_correct = None
     else:
